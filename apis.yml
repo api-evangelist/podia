@@ -1,0 +1,128 @@
+aid: podia
+url: https://raw.githubusercontent.com/api-evangelist/podia/refs/heads/main/apis.yml
+name: Podia
+kind: company
+description: >-
+  Podia is an all-in-one creator platform for selling online courses, digital
+  downloads, coaching, webinars, and memberships, with a website builder, blog,
+  communities, and built-in email marketing. As of this review, Podia does NOT
+  offer a public or partner developer API and does not expose webhooks. The
+  company's own help center states plainly that "Podia does not offer a public
+  API or webhooks," and directs builders to Zapier as the only supported
+  integration path. The logical resources below (products, customers/audience,
+  community, and sales) are therefore documented as endpointsModeled - they
+  reflect the objects and events Podia surfaces through its Zapier app, not a
+  first-party REST API. There is no published base URL, authentication scheme,
+  or OpenAPI description to catalog.
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+tags:
+- Creator Economy
+- Online Courses
+- Digital Products
+- Memberships
+- Email Marketing
+- No Public API
+- Zapier Only
+created: '2026-07-05'
+modified: '2026-07-05'
+specificationVersion: '0.19'
+apis:
+- aid: podia:podia-products-api
+  name: Podia Products API
+  tags:
+  - Products
+  - Courses
+  - Digital Downloads
+  - Modeled
+  image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+  humanURL: https://help.podia.com/en/articles/11371075-does-podia-have-a-public-api-or-webhooks
+  endpointsModeled: true
+  properties:
+  - url: https://help.podia.com/en/articles/11371075-does-podia-have-a-public-api-or-webhooks
+    type: Documentation
+  - url: https://zapier.com/apps/podia/integrations
+    type: Integrations
+  description: >-
+    Logical surface for Podia products - online courses, digital downloads,
+    coaching, and webinars. Podia does not expose a public REST API for
+    products; enrollment can only be automated through the Zapier "Sign Someone
+    Up for a Product" action and the "Product Signed Up For" trigger (write
+    actions require the Shaker plan). Endpoints are modeled from those Zapier
+    capabilities, not fetched from a first-party API reference.
+- aid: podia:podia-customers-audience-api
+  name: Podia Customers and Audience API
+  tags:
+  - Customers
+  - Audience
+  - Email Subscribers
+  - Modeled
+  image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+  humanURL: https://help.podia.com/en/articles/11371075-does-podia-have-a-public-api-or-webhooks
+  endpointsModeled: true
+  properties:
+  - url: https://help.podia.com/en/articles/11371075-does-podia-have-a-public-api-or-webhooks
+    type: Documentation
+  - url: https://zapier.com/apps/podia/integrations
+    type: Integrations
+  description: >-
+    Logical surface for Podia customers, email audience, and tags. No public
+    REST API exists. Through Zapier, Podia can add someone to your audience and
+    subscribe them for email, apply and react to tags ("Someone Gets Tagged"),
+    and add people to a product waitlist ("Someone Waitlists"). Endpoints are
+    modeled from these Zapier triggers and actions rather than a documented API.
+- aid: podia:podia-community-api
+  name: Podia Community API
+  tags:
+  - Community
+  - Memberships
+  - Spaces
+  - Modeled
+  image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+  humanURL: https://help.podia.com/en/articles/11371075-does-podia-have-a-public-api-or-webhooks
+  endpointsModeled: true
+  properties:
+  - url: https://help.podia.com/en/articles/11371075-does-podia-have-a-public-api-or-webhooks
+    type: Documentation
+  - url: https://zapier.com/apps/podia/integrations
+    type: Integrations
+  description: >-
+    Logical surface for Podia communities and membership plans. No public REST
+    API is documented. Zapier exposes "Someone Joins Community" and "Someone
+    Leaves Community" triggers, plus actions to add or remove a community
+    member. Endpoints are modeled from those Zapier events, not from a
+    first-party API.
+- aid: podia:podia-sales-api
+  name: Podia Sales API
+  tags:
+  - Sales
+  - Orders
+  - Transactions
+  - Modeled
+  image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+  humanURL: https://help.podia.com/en/articles/11371075-does-podia-have-a-public-api-or-webhooks
+  endpointsModeled: true
+  properties:
+  - url: https://help.podia.com/en/articles/11371075-does-podia-have-a-public-api-or-webhooks
+    type: Documentation
+  - url: https://zapier.com/apps/podia/integrations
+    type: Integrations
+  description: >-
+    Logical surface for Podia sales and orders. No public REST API or webhook
+    is available to receive order data. Zapier surfaces a "New Sale" trigger
+    that fires when someone purchases a free or paid course or digital download,
+    which is the only supported way to react to a transaction programmatically.
+    Endpoints are modeled from that Zapier trigger, not a documented API.
+common:
+- type: LinkedIn
+  url: https://www.linkedin.com/company/podiadotcom
+- type: Website
+  url: https://www.podia.com
+- type: Documentation
+  url: https://help.podia.com/en/articles/11371075-does-podia-have-a-public-api-or-webhooks
+- type: Integrations
+  url: https://zapier.com/apps/podia/integrations
+- type: Plans
+  url: plans/podia-plans-pricing.yml
+maintainers:
+- FN: Kin Lane
+  email: kin@apievangelist.com

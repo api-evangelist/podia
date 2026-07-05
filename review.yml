@@ -1,0 +1,85 @@
+aid: podia
+name: Podia
+review:
+  question: Does Podia expose a documented public WebSocket API?
+  answer: false
+  date: '2026-07-05'
+  reviewer: API Evangelist
+  asyncapiSpecCreated: false
+  asyncapiScopeNote: |
+    No AsyncAPI document was authored. Podia does not expose any public API
+    transport at all - no REST, no webhooks, and no WebSocket or SSE. There is
+    no server-push surface on Podia's own platform to model. The only
+    programmatic surface is Podia's Zapier app, and Zapier polls Podia on the
+    integrator's behalf; those poll semantics are internal to Zapier and are
+    not a documented Podia streaming API.
+findings:
+  summary: |
+    Podia does not publish a documented public WebSocket API, and more broadly
+    it does not offer a public developer API of any kind. Podia's own help
+    center states directly: "Podia does not offer a public API or webhooks."
+    The only supported way to integrate Podia with other tools is Zapier, which
+    the help center explicitly recommends as a workaround "while we don't have a
+    public API at the moment." There is no published base URL, authentication
+    scheme, API reference, or OpenAPI/AsyncAPI description for Podia. No
+    realtime, bidirectional, or streaming WebSocket (ws:// or wss://) endpoint
+    is documented anywhere on Podia's platform.
+  publicApi: false
+  webhooks: false
+  transports:
+    - protocol: REST
+      scheme: https
+      documented: false
+      note: Podia does not offer a public or partner REST API. No base URL or reference is published.
+    - protocol: Webhook
+      scheme: https
+      documented: false
+      note: Podia explicitly states it does not offer webhooks.
+    - protocol: WebSocket
+      scheme: wss
+      documented: false
+      note: No WebSocket endpoint is documented. Podia has no public API surface of any kind.
+    - protocol: SSE
+      scheme: https
+      documented: false
+      note: No Server-Sent Events surface is documented.
+    - protocol: Zapier
+      scheme: https
+      documented: true
+      note: >-
+        The only supported integration path. Podia's Zapier app exposes
+        triggers (New Sale, Someone Joins Community, Someone Leaves Community,
+        Someone Gets Tagged, Someone Waitlists, Published Blog Post, Product
+        Signed Up For) and actions (sign someone up for a product, add or remove
+        a community member, subscribe someone to your audience, add someone to a
+        waitlist). Actions require the Shaker plan. This is Zapier's integration,
+        not a first-party Podia API.
+  endpointsModeled: |
+    The logical APIs in apis.yml (Products, Customers and Audience, Community,
+    and Sales) are marked endpointsModeled. They are derived from the objects
+    and events Podia surfaces through its Zapier app, not from any published
+    Podia API reference. No real Podia endpoints, base URL, or OpenAPI were
+    catalogued because none exist publicly.
+sources:
+  - url: https://help.podia.com/en/articles/11371075-does-podia-have-a-public-api-or-webhooks
+    type: Documentation
+    note: Podia help center. States "Podia does not offer a public API or webhooks" and points to Zapier.
+  - url: https://help.podia.com/en/articles/11370276-how-to-connect-podia-to-other-platforms-using-zapier
+    type: Documentation
+    note: How to connect Podia to other platforms using Zapier - the only supported integration path.
+  - url: https://zapier.com/apps/podia/integrations
+    type: Integrations
+    note: Podia Zapier app. Lists the available triggers and actions used to model the logical APIs.
+  - url: https://www.podia.com/pricing
+    type: Plans
+    note: Published Mover, Shaker, and Earthquaker pricing. No API pricing or metering exists.
+actions:
+  asyncapiPath: null
+  apisYmlUpdated: true
+  reason: |
+    No WebSocket surface exists - in fact no public API surface exists at all.
+    Podia offers only a Zapier integration. The apis.yml entry documents the
+    logical product, customer, community, and sales surfaces honestly as
+    endpointsModeled, sourced from Podia's Zapier triggers and actions, and no
+    OpenAPI, AsyncAPI, rate-limits, or finops artifacts were fabricated because
+    there is no real API to describe.

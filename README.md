@@ -1,0 +1,77 @@
+# Podia (podia)
+
+Podia is an all-in-one creator platform for selling online courses, digital downloads, coaching, webinars, and memberships, paired with a website builder, blog, communities, and built-in email marketing. As of June 2026, Podia rebuilt itself around community as the core experience, and reports 15,000+ creators on the platform.
+
+## Access Model: No Public API
+
+**Podia does not offer a public or partner developer API, and it does not expose webhooks.** This is stated plainly in Podia's own help center: *"Podia does not offer a public API or webhooks."* The help center recommends [Zapier](https://zapier.com/apps/podia/integrations) as the only supported way to integrate Podia with other tools, noting that *"while we don't have a public API at the moment, Zapier can often provide a workaround."*
+
+Because there is no first-party API, this catalog entry contains **no OpenAPI, AsyncAPI, rate-limit, or FinOps artifacts** - there is no published base URL, authentication scheme, or API reference to describe. The APIs listed below are **modeled** (`endpointsModeled: true`): they represent the logical resources and events Podia surfaces through its Zapier app, not real REST endpoints.
+
+**APIs.json:** [https://raw.githubusercontent.com/api-evangelist/podia/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/podia/refs/heads/main/apis.yml)
+
+## Tags
+
+- Creator Economy
+- Online Courses
+- Digital Products
+- Memberships
+- Email Marketing
+- No Public API
+- Zapier Only
+
+## Timestamps
+
+- **Created:** 2026-07-05
+- **Modified:** 2026-07-05
+
+## Modeled APIs
+
+These are logical surfaces derived from Podia's Zapier integration, not documented endpoints.
+
+### Podia Products API (modeled)
+
+Online courses, digital downloads, coaching, and webinars. Enrollment can be automated only through the Zapier "Sign Someone Up for a Product" action and the "Product Signed Up For" trigger (write actions require the Shaker plan).
+
+### Podia Customers and Audience API (modeled)
+
+Customers, email audience, and tags. Via Zapier, Podia can add someone to your audience and subscribe them for email, react to tag events, and add people to a product waitlist.
+
+### Podia Community API (modeled)
+
+Communities and membership plans. Zapier exposes "Someone Joins Community" and "Someone Leaves Community" triggers, plus actions to add or remove a community member.
+
+### Podia Sales API (modeled)
+
+Sales and orders. Zapier surfaces a "New Sale" trigger that fires when someone purchases a free or paid course or digital download - the only supported way to react to a transaction programmatically.
+
+## Zapier Triggers and Actions
+
+**Triggers:** New Sale, Someone Joins Community, Someone Leaves Community, Someone Gets Tagged, Someone Waitlists, Published Blog Post, Product Signed Up For.
+
+**Actions (Shaker plan and above):** Sign someone up for a product, add a community member, remove a community member, subscribe someone to your audience, add someone to a product waitlist.
+
+## Pricing
+
+Podia removed its free plan and offers three paid tiers, each with a 30-day free trial. The monthly rate is lower when billed annually (shown first) and higher when billed month-to-month.
+
+| Plan | Annual (per mo.) | Monthly | Transaction fee |
+|------|------------------|---------|-----------------|
+| Mover | $42 | $49 | 5% |
+| Shaker | $84 | $99 | 0% |
+| Earthquaker | $150 | $179 | 0% |
+
+Podia has no API pricing, usage plans, or metering, because it does not sell or expose API access. See [plans/podia-plans-pricing.yml](plans/podia-plans-pricing.yml).
+
+## Common Properties
+
+- [LinkedIn](https://www.linkedin.com/company/podiadotcom)
+- [Website](https://www.podia.com)
+- [Documentation - Does Podia have a public API or webhooks?](https://help.podia.com/en/articles/11371075-does-podia-have-a-public-api-or-webhooks)
+- [Integrations (Zapier)](https://zapier.com/apps/podia/integrations)
+- [Plans](plans/podia-plans-pricing.yml)
+
+## Maintainers
+
+**FN:** Kin Lane
+**Email:** kin@apievangelist.com

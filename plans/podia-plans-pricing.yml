@@ -1,0 +1,54 @@
+provider: Podia
+name: Podia Plans and Pricing
+description: >-
+  Published Podia subscription plans as of July 2026. Podia removed its free
+  plan and now offers three paid tiers, each with a 30-day free trial. Pricing
+  shown is the monthly rate; the lower figure is when billed annually and the
+  higher figure is when billed month-to-month. Podia charges a transaction fee
+  only on the Mover plan. These figures are for the creator platform
+  subscription - Podia does not sell or meter API access, because it does not
+  offer a public developer API.
+source: https://www.podia.com/pricing
+currency: USD
+freeTrialDays: 30
+freePlan: false
+plans:
+- name: Mover
+  monthlyBilledAnnually: 42
+  monthlyBilledMonthly: 49
+  transactionFee: '5%'
+  highlights:
+  - Community, website builder, blog, and landing pages
+  - Digital products and online courses
+  - Customer messaging and third-party code
+  - Up to 50 products and 25 community spaces
+  - Up to 100 email subscribers
+  - Zapier triggers available
+- name: Shaker
+  monthlyBilledAnnually: 84
+  monthlyBilledMonthly: 99
+  transactionFee: '0%'
+  highlights:
+  - Everything in Mover
+  - No Podia transaction fees
+  - Affiliate marketing and upsells
+  - PayPal, Zoom, and Zapier integrations
+  - Up to 150 products and 100 community spaces
+  - Up to 500 email subscribers
+  - Zapier write actions available on this plan
+- name: Earthquaker
+  monthlyBilledAnnually: 150
+  monthlyBilledMonthly: 179
+  transactionFee: '0%'
+  highlights:
+  - Everything in Shaker
+  - No Podia transaction fees
+  - Unlimited products and community spaces
+  - Additional video storage
+  - Up to 1,000 email subscribers
+notes: >-
+  Podia has no API pricing, usage plans, rate limits, or metering because it
+  does not expose a public or partner API. All programmatic integration is done
+  through Zapier - triggers are usable on the Mover and Shaker plans, while the
+  write actions (sign up for a product, add to community, subscribe to
+  audience, add to waitlist) require the Shaker plan or higher.
