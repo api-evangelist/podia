@@ -113,6 +113,8 @@ apis:
     which is the only supported way to react to a transaction programmatically.
     Endpoints are modeled from that Zapier trigger, not a documented API.
 common:
+- type: DomainSecurity
+  url: security/podia-domain-security.yml
 - type: LinkedIn
   url: https://www.linkedin.com/company/podiadotcom
 - type: Website
