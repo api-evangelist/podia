@@ -14,7 +14,19 @@ description: >-
   reflect the objects and events Podia surfaces through its Zapier app, not a
   first-party REST API. There is no published base URL, authentication scheme,
   or OpenAPI description to catalog.
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: free-trial
+  onboarding: unknown
+  trial: true
+  try_now: false
+  public: false
+  label: Free trial
+  confidence: medium
+  source:
+  - plans
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/podia.png
 tags:
 - Creator Economy
 - Online Courses
