@@ -13,7 +13,15 @@ description: >-
   community, and sales) are therefore documented as endpointsModeled - they
   reflect the objects and events Podia surfaces through its Zapier app, not a
   first-party REST API. There is no published base URL, authentication scheme,
-  or OpenAPI description to catalog.
+  or OpenAPI description to catalog. What Podia does publish, and what this
+  profile captures, is a real client-side surface: an Advanced JavaScript
+  tracking API exposing Podia.Customer and Podia.Conversion objects plus three
+  DOM CustomEvents on every storefront page, an embeddable email-capture form
+  that POSTs to a per-creator subscriptions endpoint, and a 509-link llms.txt at
+  help.podia.com that renders every help article as markdown. Podia also runs a
+  public Atlassian status page and a Beamer changelog, and allows GPTBot,
+  ClaudeBot and PerplexityBot in robots.txt - the missing agent surface here is a
+  missing API product, not an anti-AI posture.
 accessModel:
   pricing: free-trial
   onboarding: unknown
@@ -35,8 +43,12 @@ tags:
 - Email Marketing
 - No Public API
 - Zapier Only
+- Creator Platform
+- Communities
+- Website Builder
+- Client-Side JavaScript
 created: '2026-07-05'
-modified: '2026-07-05'
+modified: '2026-08-13'
 specificationVersion: '0.19'
 apis:
 - aid: podia:podia-products-api
@@ -137,6 +149,70 @@ common:
   url: https://zapier.com/apps/podia/integrations
 - type: Plans
   url: plans/podia-plans-pricing.yml
+- type: RateLimits
+  url: rate-limits/podia-rate-limits.yml
+- type: LLMsTxt
+  url: llms/podia-llms.txt
+- type: ChangeLog
+  url: changelog/podia-changelog.yml
+- type: Lifecycle
+  url: lifecycle/podia-lifecycle.yml
+- type: StatusPage
+  url: https://podia.statuspage.io
+- type: Components
+  url: components/podia-components.yml
+- type: DataModel
+  url: data-model/podia-data-model.yml
+- type: Conformance
+  url: conformance/podia-conformance.yml
+- type: Compliance
+  url: https://www.podia.com/dpa
+- type: Integrations
+  url: integrations/podia-zapier-surface.yml
+- type: HelpCenter
+  url: https://help.podia.com
+- type: Support
+  url: https://help.podia.com
+- type: Blog
+  url: https://www.podia.com/articles
+- type: GitHubOrganization
+  url: https://github.com/podia
+- type: Pricing
+  url: https://www.podia.com/pricing
+- type: SignUp
+  url: https://www.podia.com/signup
+- type: Login
+  url: https://app.podia.com/login
+- type: TermsOfService
+  url: https://www.podia.com/terms
+- type: PrivacyPolicy
+  url: https://www.podia.com/privacy
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
+x-enrichment:
+  date: '2026-08-13'
+  status: enriched
+  artifacts_added: 9
+  pass: local-v1
+x-coverage:
+  state: none
+  reason: no-developer-program
+  detail: >-
+    Podia's own help center article "Does Podia have a public API or webhooks?"
+    answers itself in one line - "Podia does not offer a public API or webhooks" -
+    and every contract probe agreed: api.podia.com resolves but serves an HTML 404
+    at /openapi.json, /swagger.json, /api-docs and /graphql, and
+    developers.podia.com, developer.podia.com and docs.podia.com do not exist.
+  evidence:
+  - url: https://help.podia.com/en/articles/11371075-does-podia-have-a-public-api-or-webhooks.md
+    status: 200
+  - url: https://api.podia.com/openapi.json
+    status: 404
+  - url: https://developers.podia.com/
+    status: 404
+  - url: https://www.podia.com/.well-known/agent-card.json
+    status: 404
+  - url: https://help.podia.com/llms.txt
+    status: 200
+  checked: '2026-08-13'
