@@ -49,7 +49,7 @@ tags:
 - Client-Side JavaScript
 created: '2026-07-05'
 modified: '2026-08-13'
-specificationVersion: '0.19'
+specificationVersion: '0.23'
 apis:
 - aid: podia:podia-products-api
   name: Podia Products API
