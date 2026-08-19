@@ -1,0 +1,35 @@
+generated: '2026-08-13'
+method: probed
+source: https://changelog.podia.com/en
+http_status: 200
+title: What's new on Podia
+description: >-
+  Podia runs a public product changelog at changelog.podia.com, hosted on Beamer
+  (app.getbeamer.com). The page is real and public - HTTP 200, og:title
+  "What's new on Podia", with announcement and improvement category filters - but
+  every entry title and body is injected client-side by Beamer's JavaScript, so
+  the served HTML contains empty <h3 class="featureTitle"> shells and no dates.
+  The Beamer RSS/Atom endpoints are blocked at Podia's Cloudflare edge (403), so
+  there is no machine-readable path to the entries at all.
+scheme: dated-product-updates
+covers: the creator platform product, not an API - Podia publishes no API version or API changelog
+entries: []
+entry_count: 0
+entries_note: >-
+  0 entries captured, not 0 entries published. The changelog is JS-rendered and
+  its feed is 403 - the content is human-readable only. This is a coverage gap
+  caused by the provider's rendering choice, not an absence of changelog.
+feeds:
+- url: https://changelog.podia.com/en/rss.xml
+  status: 403
+  note: Cloudflare 403, including with a browser User-Agent
+- url: https://changelog.podia.com/rss.xml
+  status: 403
+- url: https://changelog.podia.com/en/atom.xml
+  status: 403
+related:
+- url: https://www.podia.com/articles/meet-the-new-podia
+  note: Narrative post covering the "new Podia" relaunch that unified products, community and updates
+recommendation: >-
+  Server-render the changelog entries, or unblock the Beamer feed at the edge, and
+  the release history becomes readable by agents and aggregators.

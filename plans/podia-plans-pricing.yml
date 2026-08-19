@@ -1,3 +1,7 @@
+generated: '2026-08-13'
+method: searched
+source: https://www.podia.com/pricing
+plan_count: 3
 provider: Podia
 name: Podia Plans and Pricing
 description: >-
@@ -8,7 +12,6 @@ description: >-
   only on the Mover plan. These figures are for the creator platform
   subscription - Podia does not sell or meter API access, because it does not
   offer a public developer API.
-source: https://www.podia.com/pricing
 currency: USD
 freeTrialDays: 30
 freePlan: false
@@ -23,7 +26,8 @@ plans:
   - Customer messaging and third-party code
   - Up to 50 products and 25 community spaces
   - Up to 100 email subscribers
-  - Zapier triggers available
+  - Up to 500 videos
+  - No Zapier access on this tier
 - name: Shaker
   monthlyBilledAnnually: 84
   monthlyBilledMonthly: 99
@@ -35,7 +39,8 @@ plans:
   - PayPal, Zoom, and Zapier integrations
   - Up to 150 products and 100 community spaces
   - Up to 500 email subscribers
-  - Zapier write actions available on this plan
+  - Up to 1,000 videos
+  - Zapier triggers AND write actions available from this tier up
 - name: Earthquaker
   monthlyBilledAnnually: 150
   monthlyBilledMonthly: 179
@@ -44,11 +49,22 @@ plans:
   - Everything in Shaker
   - No Podia transaction fees
   - Unlimited products and community spaces
-  - Additional video storage
+  - Unlimited videos
   - Up to 1,000 email subscribers
+  - Zapier triggers and write actions
 notes: >-
-  Podia has no API pricing, usage plans, rate limits, or metering because it
-  does not expose a public or partner API. All programmatic integration is done
-  through Zapier - triggers are usable on the Mover and Shaker plans, while the
-  write actions (sign up for a product, add to community, subscribe to
-  audience, add to waitlist) require the Shaker plan or higher.
+  Podia has no API pricing, usage plans, rate limits, or metering because it does
+  not expose a public or partner API. All programmatic integration is done through
+  Zapier, and Podia's current Zapier documentation gates BOTH triggers and write
+  actions to the Shaker and Earthquaker plans. This corrects an earlier round of
+  this profile, which recorded triggers as available on Mover. The Mover tier also
+  keeps the Advanced JavaScript tracking API (Podia.Customer / Podia.Conversion),
+  which is available on Mover and Shaker.
+verified: '2026-08-13'
+verified_note: >-
+  Annual per-month prices (42 / 84 / 150), transaction fees (5% / 0% / 0%),
+  product, community-space, video and email-subscriber ceilings, the absence of a
+  free plan and the 30-day trial were all re-read from the live pricing page on
+  this date and matched. The month-to-month figures (49 / 99 / 179) are carried
+  forward from the July 2026 capture; the current pricing page renders them behind
+  a billing-period toggle that did not surface in this fetch.

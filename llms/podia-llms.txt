@@ -1,0 +1,557 @@
+# Podia Help Center
+
+> How can we help?
+
+## Getting Started
+
+- [Guide for new users | Overview](https://help.podia.com/en/articles/14805672-guide-for-new-users-overview.md): We’re super excited to have you on board and can’t wait to help you get started
+- [Guide for new users | Basic account setup](https://help.podia.com/en/articles/14805673-guide-for-new-users-basic-account-setup.md): In this article we'll teach you how to get started with some basic account setup
+- [Guide for new users | Setting up payment details](https://help.podia.com/en/articles/14805687-guide-for-new-users-setting-up-payment-details.md): In this step, learn how to set up your payment details to start collecting payments through Podia
+- [Guide for new users | Setting up Spaces](https://help.podia.com/en/articles/14805729-guide-for-new-users-setting-up-spaces.md): In this step, you'll learn how to set up spaces for your account
+- [Guide for new users | Customizing your home feed](https://help.podia.com/en/articles/14805700-guide-for-new-users-customizing-your-home-feed.md): In this step, we'll show you how to customize your home feed and set your members up for success
+- [Guide for new users | Creating your first offer](https://help.podia.com/en/articles/14805694-guide-for-new-users-creating-your-first-offer.md): In this step, you'll learn how to set up your first offer in Podia and start selling
+- [Guide for new users | Setting up your website](https://help.podia.com/en/articles/14805696-guide-for-new-users-setting-up-your-website.md): In this step, you'll learn how to set up your website
+- [Guide for new users | Diving into Podia Email](https://help.podia.com/en/articles/14805704-guide-for-new-users-diving-into-podia-email.md): In this step, we'll talk more about how to use Podia's email features
+- [Guide for new users | Ready to launch!](https://help.podia.com/en/articles/14805707-guide-for-new-users-ready-to-launch.md): In this final step, you're ready to start sending your first invite!
+- [Navigating your Podia dashboard](https://help.podia.com/en/articles/11370401-navigating-your-podia-dashboard.md): Learn how to navigate between the home feed and Admin dashboard views
+- [Accessing the Admin dashboard](https://help.podia.com/en/articles/13861702-accessing-the-admin-dashboard.md): Learn how to access the Admin dashboard
+- [Podia Glossary](https://help.podia.com/en/articles/14754535-podia-glossary.md): Learn what specific terms in Podia mean
+- [Understanding the member experience](https://help.podia.com/en/articles/11371052-understanding-the-member-experience.md): Understand how members can browse your site, purchase products, and access them via a personal home feed after purchase
+- [Migrating your products to Podia](https://help.podia.com/en/articles/11370439-migrating-your-products-to-podia.md): Podia offers free product migration to help you switch smoothly—save time and start selling faster with help from our Migrations team.
+- [Migrating to Podia Email](https://help.podia.com/en/articles/11370847-migrating-to-podia-email.md): Switch to Podia Email effortlessly- our team handles migrating subscribers, tags, and campaigns so you can focus on growing your business.
+- [How to contact Podia support](https://help.podia.com/en/articles/11370337-how-to-contact-podia-support.md): Learn how to contact Podia support
+- [How to report an issue](https://help.podia.com/en/articles/11371093-how-to-report-an-issue.md): Report issues by sharing clear details, links, and screenshots so support can quickly understand and resolve the problem.
+- [Advanced Issue Reporting](https://help.podia.com/en/articles/11371586-advanced-issue-reporting.md): Learn how to report advanced issues by sharing your browser console, OS, and browser version to help Podia support troubleshoot faster.
+- [EU GDPR \(General Data Protection Regulation\)](https://help.podia.com/en/articles/11370866-eu-gdpr-general-data-protection-regulation.md): Podia keeps your data safe and respects you and your customer's privacy.
+- [Security policy](https://help.podia.com/en/articles/11371074-security-policy.md)
+
+## Home
+
+- [Creating a new post](https://help.podia.com/en/articles/11370270-creating-a-new-post.md): Learn how to create new posts
+- [Editing existing posts](https://help.podia.com/en/articles/11370309-editing-existing-posts.md): Learn how to edit posts after they've been published.
+- [Deleting a post](https://help.podia.com/en/articles/11370867-deleting-a-post.md): Learn how to delete posts
+- [Moving posts between spaces](https://help.podia.com/en/articles/15139436-moving-posts-between-spaces.md): Learn how to move posts between spaces
+- [Reacting to posts and comments](https://help.podia.com/en/articles/11831509-reacting-to-posts-and-comments.md): Learn how to react to posts and comments
+- [Sharing community posts](https://help.podia.com/en/articles/15768754-sharing-community-posts.md): Learn how to copy the link of community posts and share it with others
+- [Navigating your products page](https://help.podia.com/en/articles/15961739-navigating-your-products-page.md): Learn how to access and navigate your Products page
+- [Mark lessons as complete](https://help.podia.com/en/articles/11370943-mark-lessons-as-complete.md): Learn how to mark lessons as complete and track your progress through a course
+- [View and download a certificate from a course you have completed](https://help.podia.com/en/articles/11371082-view-and-download-a-certificate-from-a-course-you-have-completed.md): Learn how to navigate your customer dashboard to view and download course certificates.
+- [Adding an event to your calendar](https://help.podia.com/en/articles/15255090-adding-an-event-to-your-calendar.md): Learn how to add an event to the calendar of your choice
+- [Starting a new chat](https://help.podia.com/en/articles/11371006-starting-a-new-chat.md): Learn how to start a new chat with other people
+- [Managing your chats](https://help.podia.com/en/articles/11371003-managing-your-chats.md): Learn how to manage your chats
+- [Editing chat messages](https://help.podia.com/en/articles/15859530-editing-chat-messages.md): Learn how to edit messages sent through chat
+- [Following/unfollowing spaces](https://help.podia.com/en/articles/11370967-following-unfollowing-spaces.md): Learn how to follow and unfollow spaces
+- [Viewing notifications](https://help.podia.com/en/articles/14089638-viewing-notifications.md): Learn how to view notifications
+- [Managing notifications](https://help.podia.com/en/articles/14744410-managing-notifications.md): Learn how to manage notifications and control which types of updates you receive
+- [Setting your online status](https://help.podia.com/en/articles/14111863-setting-your-online-status.md): Learn how to set your online status on your Podia account
+- [Logging out of your account](https://help.podia.com/en/articles/14964513-logging-out-of-your-account.md): Learn how to log out of your account
+- [Managing your account's timezone](https://help.podia.com/en/articles/14820512-managing-your-account-s-timezone.md): Learn how to manage your account's timezone
+- [Changing your account's language](https://help.podia.com/en/articles/15451798-changing-your-account-s-language.md): Learn how to change the language for your account
+- [Updating your account's email address](https://help.podia.com/en/articles/16162141-updating-your-account-s-email-address.md): Learn how to change your account's email
+- [Managing your profile privacy settings](https://help.podia.com/en/articles/14501866-managing-your-profile-privacy-settings.md): Learn how to make your profile public or hidden from other members
+- [Updating your profile details](https://help.podia.com/en/articles/11371155-updating-your-profile-details.md): Learn how to edit your profile details
+- [Updating your profile picture](https://help.podia.com/en/articles/11370335-updating-your-profile-picture.md): Learn how to update your profile picture
+- [Updating your profile name](https://help.podia.com/en/articles/11370265-updating-your-profile-name.md): Learn how to update your profile's name on Podia
+- [Managing Two-Factor Authentication \(2FA\) for your Podia account](https://help.podia.com/en/articles/11371054-managing-two-factor-authentication-2fa-for-your-podia-account.md): Learn how to enable or disable 2FA for your Podia account
+- [Managing active sessions](https://help.podia.com/en/articles/11370416-managing-active-sessions.md): Learn how to manage your active sessions and keep your account secure.
+- [Why am I being asked for a verification code upon login?](https://help.podia.com/en/articles/11370453-why-am-i-being-asked-for-a-verification-code-upon-login.md): Learn more about how we keep your account secure with two-factor authentication.
+- [Why is my verification code invalid?](https://help.podia.com/en/articles/11370499-why-is-my-verification-code-invalid.md): Read this article to learn how to solve issues with login verification codes.
+- [Trusting a new device](https://help.podia.com/en/articles/11370362-trusting-a-new-device.md): Learn how to trust a new device to avoid entering two-factor authentication codes when logging in.
+- [Changing your account's password](https://help.podia.com/en/articles/11370281-changing-your-account-s-password.md): Learn how to change your password
+- [How to manage active product subscriptions](https://help.podia.com/en/articles/11706229-how-to-manage-active-product-subscriptions.md): Learn how to manage product subscriptions
+- [Navigating the home feed](https://help.podia.com/en/articles/15383267-navigating-the-home-feed.md): Learn how to navigate the home feed
+
+## Products
+
+- [Getting Started with Products on Podia](https://help.podia.com/en/articles/11164059-getting-started-with-products-on-podia.md): Learn how to create, customize, and publish products on Podia in a few easy steps.
+- [Creating an online course](https://help.podia.com/en/articles/11370361-creating-an-online-course.md): Learn how to create and publish an online course on Podia
+- [Adding lessons to online courses](https://help.podia.com/en/articles/12986155-adding-lessons-to-online-courses.md): Learn how to add and customize lessons in online courses
+- [Setting up quizzes for your online course](https://help.podia.com/en/articles/11371014-setting-up-quizzes-for-your-online-course.md): Learn how to set up quizzes in online courses to test customers' understanding of your course content
+- [Enabling certificates for course completion](https://help.podia.com/en/articles/11370348-enabling-certificates-for-course-completion.md): Learn how to enable certificate for course completion on Podia
+- [Viewing your customer's progress in an online course](https://help.podia.com/en/articles/11371016-viewing-your-customer-s-progress-in-an-online-course.md): Checking in on your student's progress is a great way to gauge your student's engagement or monitor where they may be getting stuck!
+- [Delaying section access for your online courses](https://help.podia.com/en/articles/11371031-delaying-section-access-for-your-online-courses.md): Delaying course content gives you the ability to gradually release course modules, rather than providing access to all lessons at once.
+- [Unlocking delayed sections for specific customers](https://help.podia.com/en/articles/11371019-unlocking-delayed-sections-for-specific-customers.md): Learn how to unlock locked delayed sections for specific customers
+- [Adding subtitles to your videos](https://help.podia.com/en/articles/11371012-adding-subtitles-to-your-videos.md): Learn how to add subtitles to videos you uploaded on Podia
+- [Add a custom thumbnail to a video](https://help.podia.com/en/articles/11371022-add-a-custom-thumbnail-to-a-video.md): After uploading a video to your product, site page, or community post you might want to add a custom thumbnail.
+- [Enable or disable downloads for audio and video files](https://help.podia.com/en/articles/11371139-enable-or-disable-downloads-for-audio-and-video-files.md): Learn how to enable a download option for videos and audio you upload through Podia
+- [Duplicating lessons/quizzes](https://help.podia.com/en/articles/16300357-duplicating-lessons-quizzes.md): Learn how to duplicate lessons and quizzes
+- [Creating a digital download](https://help.podia.com/en/articles/11370415-creating-a-digital-download.md): Learn how to create and publish a digital download
+- [Events](https://help.podia.com/en/articles/14965608-events.md): Learn more about Events and how they work on Podia
+- [Creating an Event](https://help.podia.com/en/articles/14999510-creating-an-event.md): Learn how to create a new event on Podia
+- [Uploading a replay to an event](https://help.podia.com/en/articles/15255088-uploading-a-replay-to-an-event.md): Learn to upload a replay to an event
+- [Events FAQs](https://help.podia.com/en/articles/15255084-events-faqs.md): Frequently asked questions about the Events feature
+- [Creating a pre-recorded event](https://help.podia.com/en/articles/11370950-creating-a-pre-recorded-event.md): Offer pre-recorded events that members can watch at their convenience
+- [Creating a coaching session](https://help.podia.com/en/articles/11370451-creating-a-coaching-session.md): Walk through the step-by-step guide on how to create your first coaching session product on Podia!
+- [Creating a bundle](https://help.podia.com/en/articles/11370865-creating-a-bundle.md): Learn how to bundle your products together in packages that can be sold in a single transaction.
+- [Adding content to products](https://help.podia.com/en/articles/11370343-adding-content-to-products.md): Learn how to add content to your products
+- [Adding files to products](https://help.podia.com/en/articles/11370383-adding-files-to-products.md): Learn how to add files to your products on Podia
+- [Publishing your product](https://help.podia.com/en/articles/11370837-publishing-your-product.md): Learn how to publish your product on Podia and have it ready to be sold and shared with your audience
+- [Unpublishing products](https://help.podia.com/en/articles/11370868-unpublishing-products.md): A guide on how to unpublish a product
+- [Duplicating a product](https://help.podia.com/en/articles/11370448-duplicating-a-product.md): Learn how to duplicate a product or event
+- [Deleting a product](https://help.podia.com/en/articles/11370494-deleting-a-product.md): Learn how to delete products on Podia
+- [Offering a product waitlist](https://help.podia.com/en/articles/11370273-offering-a-product-waitlist.md): A guide on how to collect email addresses for a product you're not ready to launch yet
+- [Viewing a product sales page](https://help.podia.com/en/articles/11370887-viewing-a-product-sales-page.md): A guide on how to view your product's sales page
+- [Viewing your product as a customer](https://help.podia.com/en/articles/11370899-viewing-your-product-as-a-customer.md): Learn how to view your products as a customer
+- [Sharing a product page](https://help.podia.com/en/articles/11370443-sharing-a-product-page.md): Learn how to share your product sales page with customers
+- [Finding & sharing checkout links](https://help.podia.com/en/articles/11370908-finding-sharing-checkout-links.md): A guide on how to find and share your products' checkout links
+- [Adding someone to a product for free](https://help.podia.com/en/articles/11370411-adding-someone-to-a-product-for-free.md): Learn how to give someone free access to a product by granting them access directly.
+- [Removing customer access](https://help.podia.com/en/articles/11370832-removing-customer-access.md): Learn how to remove a customer from a product, event or plan
+- [Changing the name of your product](https://help.podia.com/en/articles/11371036-changing-the-name-of-your-product.md): Learn how to rename your product
+- [Adding a product image and description](https://help.podia.com/en/articles/11370256-adding-a-product-image-and-description.md): Learn how to add an image and description to your product
+- [Editing product availability settings](https://help.podia.com/en/articles/11370334-editing-product-availability-settings.md): Control your product status, access and visibility
+- [Replacing a file](https://help.podia.com/en/articles/11370827-replacing-a-file.md): Learn how to replace files you've already uploaded
+- [Hiding products](https://help.podia.com/en/articles/11370861-hiding-products.md): Hide specific products from your site
+- [Hiding a specific lesson/file](https://help.podia.com/en/articles/11370897-hiding-a-specific-lesson-file.md): Learn how to hide specific lessons/files for your online courses and downloads
+- [Closing signups for products](https://help.podia.com/en/articles/11370907-closing-signups-for-products.md): Learn how to close your products for new sign-ups
+- [Enabling preview for lessons/files](https://help.podia.com/en/articles/11371037-enabling-preview-for-lessons-files.md): Learn how to make specific lessons and files previewable so visitors can view them without signing up
+- [Editing course lessons](https://help.podia.com/en/articles/11371039-editing-course-lessons.md): Learn how to edit course lessons after they've been created
+- [Deleting files from products](https://help.podia.com/en/articles/11371043-deleting-files-from-products.md): Learn how to delete specific files from your products
+- [Managing product visibility settings](https://help.podia.com/en/articles/15555526-managing-product-visibility-settings.md): Learn how to manage your product visibility settings
+- [Granting space access through products](https://help.podia.com/en/articles/16127235-granting-space-access-through-products.md): Learn how to grant access to specific spaces via products/events/plans
+- [Customizing a product's shop page](https://help.podia.com/en/articles/16150511-customizing-a-product-s-shop-page.md): Learn how to customize the Shop product page for a specific product
+- [Setting up an offer for your product](https://help.podia.com/en/articles/11370283-setting-up-an-offer-for-your-product.md): Learn how to set up an offer for a product or event
+- [Setting up a price for your product](https://help.podia.com/en/articles/11748332-setting-up-a-price-for-your-product.md): Learn how to set up a paid offer for your products, events and plans
+- [Setting up a payment plan](https://help.podia.com/en/articles/11370353-setting-up-a-payment-plan.md): Learn how to set up a payment plan for your products and events
+- [Offering upsells](https://help.podia.com/en/articles/11370406-offering-upsells.md): Learn how to add upsells to your products, events and plans
+- [Adding a trial to your subscriptions](https://help.podia.com/en/articles/11370488-adding-a-trial-to-your-subscriptions.md): Learn how to add a free trial period to your subscriptions
+- [Understanding tax codes](https://help.podia.com/en/articles/11986457-understanding-tax-codes.md): Learn how to assign specific tax rates to paid offers
+- [Shop](https://help.podia.com/en/articles/16073000-shop.md): Learn more about the Shop feature and how to get started
+- [Enabling/disabling Shop for your members](https://help.podia.com/en/articles/16073545-enabling-disabling-shop-for-your-members.md): Learn how to enable and disable Shop for your members
+- [Managing your Shop settings](https://help.podia.com/en/articles/16100400-managing-your-shop-settings.md): Learn how to manage your Shop settings
+- [Managing your Shop product pages](https://help.podia.com/en/articles/16100880-managing-your-shop-product-pages.md): Learn how to manage default options for your shop product pages
+- [Featuring products on Home/Products page](https://help.podia.com/en/articles/16073233-featuring-products-on-home-products-page.md): Learn how to feature products on the home and Products page
+- [Setting a Spotlight product](https://help.podia.com/en/articles/16109288-setting-a-spotlight-product.md): Learn how to set a spotlight product for your Home and Product page
+- [Managing member wishlists](https://help.podia.com/en/articles/16073141-managing-member-wishlists.md): Learn more about the wishlist feature
+- [Shop FAQs](https://help.podia.com/en/articles/16238168-shop-faqs.md): Most frequently asked questions about the Shop Feature
+- [Adding sections/modules to your product](https://help.podia.com/en/articles/11370936-adding-sections-modules-to-your-product.md): Learn how to organize your downloads and courses by creating sections/modules
+- [Product categories](https://help.podia.com/en/articles/11370823-product-categories.md): Product categories can keep your products organized across your site and home
+- [Including items within other products](https://help.podia.com/en/articles/11370302-including-items-within-other-products.md): Learn how to grant access to additional items when customers sign up for specific products
+- [Setting an access duration period](https://help.podia.com/en/articles/11370455-setting-an-access-duration-period.md): Learn how to set up an access duration period for your products, events and plans
+- [Sign-up limits](https://help.podia.com/en/articles/11370377-sign-up-limits.md): Learn how to limit how many people can sign up for your products, events and plans
+- [Setting a start date](https://help.podia.com/en/articles/11370886-setting-a-start-date.md): Learn how to set a start date for products and plans
+- [Building a complete sales funnel](https://help.podia.com/en/articles/11370933-building-a-complete-sales-funnel.md): A step by step guide on how to build a complete sales funnel on Podia.
+- [Selling physical products](https://help.podia.com/en/articles/11370895-selling-physical-products.md): This guide covers a workaround you can use to sell physical products on Podia
+- [Gifting a product](https://help.podia.com/en/articles/11370918-gifting-a-product.md): This guide goes over the options you can set up for your customers to gift products to their network
+- [Understanding the customer checkout experience](https://help.podia.com/en/articles/11370931-understanding-the-customer-checkout-experience.md): This guide gives an overview of how your customers check out for your products
+- [Testing the full member experience](https://help.podia.com/en/articles/11370937-testing-the-full-member-experience.md): Learn how to test the full member experience, including creating a customer test account
+- [Adding a donate or pay what you want option](https://help.podia.com/en/articles/11370915-adding-a-donate-or-pay-what-you-want-option.md): This guide covers a workaround you can use to create a donation or "pay what you want" pricing model with Podia products.
+- [Displaying pricing tiers on Podia](https://help.podia.com/en/articles/11370858-displaying-pricing-tiers-on-podia.md): Learn how to display different pricing tiers for your products on a single page
+- [Selling company licenses or multiple seats for a product](https://help.podia.com/en/articles/11370929-selling-company-licenses-or-multiple-seats-for-a-product.md): This guide covers how to sell bulk licenses to your products.
+- [Troubleshooting upload issues](https://help.podia.com/en/articles/11370881-troubleshooting-upload-issues.md): Learn about common issues with uploading files to products, and how to resolve them.
+- [Creating a lead magnet](https://help.podia.com/en/articles/11370822-creating-a-lead-magnet.md): Learn how to create a lead magnet on Podia
+- [Unlocking sections based on course progress](https://help.podia.com/en/articles/16300959-unlocking-sections-based-on-course-progress.md): Learn how to unlock sections based on course progress
+- [What kind of content can I add to my products?](https://help.podia.com/en/articles/11370922-what-kind-of-content-can-i-add-to-my-products.md): Learn about what kind of content you can add to products, events and plans
+- [Why can't I publish my product?](https://help.podia.com/en/articles/11370926-why-can-t-i-publish-my-product.md): Learn more about the minimum content requirements for each product, event, or plan
+- [What type of content is allowed on Podia?](https://help.podia.com/en/articles/11371073-what-type-of-content-is-allowed-on-podia.md): Learn more about the type of content you are allowed to sell on Podia.
+- [Understanding "Preview Mode"](https://help.podia.com/en/articles/11371057-understanding-preview-mode.md): Learn what "You are in preview mode so some actions are limited" message means
+
+## Community
+
+- [Joining your community](https://help.podia.com/en/articles/14050424-joining-your-community.md): Learn more about the different ways people can join your community
+- [Home feed](https://help.podia.com/en/articles/13859450-home-feed.md): Learn more about the home feed
+- [Community highlights](https://help.podia.com/en/articles/13860002-community-highlights.md): Learn more about community highlights
+- [Top contributors](https://help.podia.com/en/articles/13862135-top-contributors.md): Learn more about the Top Contributors section of your home feed
+- [Adding custom links to your home feed](https://help.podia.com/en/articles/14287362-adding-custom-links-to-your-home-feed.md): Learn how to add custom links to your home feed sidebar
+- [Setting a welcome message for your home feed](https://help.podia.com/en/articles/14486164-setting-a-welcome-message-for-your-home-feed.md): Learn how to set a welcome message that displays on your home feed
+- [Featuring posts on your home feed](https://help.podia.com/en/articles/14501015-featuring-posts-on-your-home-feed.md): Learn how to featured posts on your home feed
+- [Creating a plan](https://help.podia.com/en/articles/11370272-creating-a-plan.md): Learn how to create a new plan on Podia
+- [Creating a new space](https://help.podia.com/en/articles/11370964-creating-a-new-space.md): Learn how to add a new space
+- [Editing a space](https://help.podia.com/en/articles/11370963-editing-a-space.md): Learn how to edit a space name, details, and access settings.
+- [Deleting a space](https://help.podia.com/en/articles/11370962-deleting-a-space.md): Learn how to delete a space
+- [Managing space settings](https://help.podia.com/en/articles/11370966-managing-space-settings.md): Learn how to manage space settings
+- [Managing default notification options for spaces](https://help.podia.com/en/articles/11370940-managing-default-notification-options-for-spaces.md): Learn how to set default notifications for your spaces
+- [Preventing members from posting in a space](https://help.podia.com/en/articles/11370960-preventing-members-from-posting-in-a-space.md): Learn how to manage posting permissions spaces
+- [Managing space access options](https://help.podia.com/en/articles/14744027-managing-space-access-options.md): Learn how to control space access and decide who can view content in your spaces
+- [Managing follower visibility in spaces](https://help.podia.com/en/articles/15552356-managing-follower-visibility-in-spaces.md): Learn how to manage and control your followers visibility in spaces
+- [Pinning posts to a space](https://help.podia.com/en/articles/11370440-pinning-posts-to-a-space.md): Learn how to pin posts to specific spaces
+- [Deleting comments & replies](https://help.podia.com/en/articles/11371030-deleting-comments-replies.md): Learn how to moderate your community comments and replies.
+- [@ mentioning other people](https://help.podia.com/en/articles/11371059-mentioning-other-people.md): Learn how to use @ mentions to directly mention other members
+- [Viewing community members](https://help.podia.com/en/articles/11370965-viewing-community-members.md): Learn how to view member profiles in your community
+- [Managing the "Share" account option](https://help.podia.com/en/articles/15057151-managing-the-share-account-option.md): Learn how to manage the share account option in your account
+- [Editing your plans page](https://help.podia.com/en/articles/14485159-editing-your-plans-page.md): Learn how to edit your plans page
+- [Community Feature FAQs](https://help.podia.com/en/articles/11370442-community-feature-faqs.md): Learn about answers to common questions when it comes to using Podia to run a community.
+- [Can I create multiple communities?](https://help.podia.com/en/articles/11131317-can-i-create-multiple-communities.md): Podia supports one community per account, but you can use Plans to create segmented spaces with different access levels for members.
+- [Why are you requesting some members to set up a profile?](https://help.podia.com/en/articles/14061792-why-are-you-requesting-some-members-to-set-up-a-profile.md): Learn more about why we're requesting some members to set up a profile when they log in
+- [Can I control what my members see in Podia?](https://help.podia.com/en/articles/14463096-can-i-control-what-my-members-see-in-podia.md): Learn how community permissions work and how to set them up your way
+- [What does built-in community mean in Podia?](https://help.podia.com/en/articles/14667466-what-does-built-in-community-mean-in-podia.md): Learn how built-in community works in the new Podia
+- [Migrating to the new Podia](https://help.podia.com/en/articles/13845924-migrating-to-the-new-podia.md): Learn how to migrate to the new Podia
+- [What changes in the new Podia?](https://help.podia.com/en/articles/14046432-what-changes-in-the-new-podia.md): Learn what the biggest changes are in the new Podia
+- [What changes for my members?](https://help.podia.com/en/articles/14126575-what-changes-for-my-members.md): Learn what changes for your members when you migrate to the new Podia
+
+## Site Builder
+
+- [Getting started with the Site Builder | Overview](https://help.podia.com/en/articles/11019651-getting-started-with-the-site-builder-overview.md): Your complete step-by-step guide to creating a beautiful site with Podia's Site Builder.
+- [Getting started with the Site Builder | Setting up your site for the first time](https://help.podia.com/en/articles/11019903-getting-started-with-the-site-builder-setting-up-your-site-for-the-first-time.md): Your first step in creating a site will be to select a site template, color scheme, and language.
+- [Getting started with the Site Builder | Setting global design options](https://help.podia.com/en/articles/11020122-getting-started-with-the-site-builder-setting-global-design-options.md): With global design settings, you can establish a consistent design across your site, including fonts, colors, site structure, and more!
+- [Getting started with the Site Builder | Building your homepage](https://help.podia.com/en/articles/11021161-getting-started-with-the-site-builder-building-your-homepage.md): This step covers the basics on how to build and edit your Podia site's homepage.
+- [Getting started with the Site Builder | Adding new pages](https://help.podia.com/en/articles/11021407-getting-started-with-the-site-builder-adding-new-pages.md): Add extra site pages to build out and expand the content on your Podia site!
+- [Getting started with the Site Builder | Customizing your header and footer](https://help.podia.com/en/articles/11021574-getting-started-with-the-site-builder-customizing-your-header-and-footer.md): Your header and footer will appear on every page of your site. This step of the guide will walk you through how to customize them!
+- [Getting started with the Site Builder | Publishing your site](https://help.podia.com/en/articles/11021883-getting-started-with-the-site-builder-publishing-your-site.md): The final \(and best!\) step getting your website live is publishing it! Making your site pages live is as easy as a click of a button.
+- [Building pages in Podia: A step-by-step guide](https://help.podia.com/en/articles/11370860-building-pages-in-podia-a-step-by-step-guide.md): Watch step-by-step videos on how to build pages on Podia
+- [Setting global design options for your site](https://help.podia.com/en/articles/11370297-setting-global-design-options-for-your-site.md): Learn how to set and customize global design options for your site
+- [Changing your site’s colors](https://help.podia.com/en/articles/11370342-changing-your-site-s-colors.md): Learn how to change the colors of your Podia site
+- [Managing your site fonts](https://help.podia.com/en/articles/11370403-managing-your-site-fonts.md): Learn how to manage fonts on your site pages
+- [Changing your site's width, padding, and gaps](https://help.podia.com/en/articles/11370464-changing-your-site-s-width-padding-and-gaps.md): Learn how to adjust your site's width, padding and gaps settings
+- [Changing your site's card options](https://help.podia.com/en/articles/11370813-changing-your-site-s-card-options.md): Learn how to change your site's cards options, such as corners, shadow options & more!
+- [Editing your site settings](https://help.podia.com/en/articles/11371131-editing-your-site-settings.md): Learn how to edit your site settings, such as homepage, site description, site icon & more!
+- [Publishing your site changes](https://help.podia.com/en/articles/11370260-publishing-your-site-changes.md): Learn how to publish changes made to your site to your site pages
+- [Edit your site’s header](https://help.podia.com/en/articles/11370349-edit-your-site-s-header.md): Learn how to customize and edit your site's header
+- [Customizing your site's footer](https://help.podia.com/en/articles/11370391-customizing-your-site-s-footer.md): Learn how to customize your site's footer
+- [Adding a favicon to your site](https://help.podia.com/en/articles/11370452-adding-a-favicon-to-your-site.md): Learn how to add a favicon to your site
+- [Managing sticky product banners on sales pages](https://help.podia.com/en/articles/11370479-managing-sticky-product-banners-on-sales-pages.md): Learn how to show or hide sticky banners on product sales pages
+- [Previewing your site on phone, tablet, and web](https://help.podia.com/en/articles/11370879-previewing-your-site-on-phone-tablet-and-web.md): Learn how to preview your site across different devices
+- [Adding a meta description to your site](https://help.podia.com/en/articles/11370894-adding-a-meta-description-to-your-site.md): Learn how to add a meta description to your site
+- [Viewing and editing site page URLs](https://help.podia.com/en/articles/11370952-viewing-and-editing-site-page-urls.md): Learn how to view and edit your site page URLs
+- [Adding a new page to your site](https://help.podia.com/en/articles/11370974-adding-a-new-page-to-your-site.md): Learn how to add new pages to your site
+- [Navigating through your site pages](https://help.podia.com/en/articles/11370975-navigating-through-your-site-pages.md): Learn how to navigate between the pages of your site
+- [Hiding site pages from search engines](https://help.podia.com/en/articles/11370973-hiding-site-pages-from-search-engines.md): Learn how to hide site pages from search engines
+- [Editing page settings](https://help.podia.com/en/articles/11370978-editing-page-settings.md): Learn how to edit your site page settings
+- [Deleting a custom page](https://help.podia.com/en/articles/11370977-deleting-a-custom-page.md): Learn how to delete a custom page you've added to your site
+- [Editing sales pages](https://help.podia.com/en/articles/11370995-editing-sales-pages.md): Learn how to edit a product or event sales page on Podia
+- [Editing a site page](https://help.podia.com/en/articles/11370976-editing-a-site-page.md): Learn how to edit a specific site page
+- [Adding social images for site pages](https://help.podia.com/en/articles/11371015-adding-social-images-for-site-pages.md): Learn how to add a social media image to your site pages
+- [Adding new sections to your site pages](https://help.podia.com/en/articles/11370257-adding-new-sections-to-your-site-pages.md): Learn how to add new sections to your site pages
+- [Editing page sections](https://help.podia.com/en/articles/11370340-editing-page-sections.md)
+- [Reordering page sections](https://help.podia.com/en/articles/11370394-reordering-page-sections.md): Learn how to reorder sections in your site pages
+- [Duplicating a page section](https://help.podia.com/en/articles/11370458-duplicating-a-page-section.md)
+- [Deleting a section from a site page](https://help.podia.com/en/articles/11370484-deleting-a-section-from-a-site-page.md): Learn how to delete a section from a site page
+- [Add a background image to your page sections](https://help.podia.com/en/articles/11370857-add-a-background-image-to-your-page-sections.md)
+- [Adding free images to your site using Unsplash](https://help.podia.com/en/articles/11370878-adding-free-images-to-your-site-using-unsplash.md): Learn how to add free images to your site using Unsplash
+- [Text page section](https://help.podia.com/en/articles/11370259-text-page-section.md): Learn how to add a text page section to your pages
+- [Image page section](https://help.podia.com/en/articles/11370341-image-page-section.md): Learn how to add an image page section to your site pages
+- [Video page section](https://help.podia.com/en/articles/11370396-video-page-section.md): Learn how to add a video section to your site pages
+- [Email form page section](https://help.podia.com/en/articles/11370449-email-form-page-section.md): Learn how to add an email form to your site pages
+- [Products page section](https://help.podia.com/en/articles/11370485-products-page-section.md): Learn how to display courses, downloads, coaching sessions and bundles on site pages
+- [Events page section](https://help.podia.com/en/articles/15445274-events-page-section.md): Learn how to display events on site pages
+- [Community page section](https://help.podia.com/en/articles/11370930-community-page-section.md): Learn how to display community plans on your Podia site
+- [Banner page section](https://help.podia.com/en/articles/11370830-banner-page-section.md): Learn how to add a banner page section to product and events sales pages
+- [Testimonials page section](https://help.podia.com/en/articles/11370885-testimonials-page-section.md)
+- [Categories page section](https://help.podia.com/en/articles/11370893-categories-page-section.md): Learn how to display categories on your site pages
+- [Table of Contents page section](https://help.podia.com/en/articles/11370914-table-of-contents-page-section.md): Learn how to add a Contents page section to outline your product's content in sales pages
+- [About page section](https://help.podia.com/en/articles/11370921-about-page-section.md)
+- [FAQs page section](https://help.podia.com/en/articles/11370925-faqs-page-section.md): Learn how to display FAQs in your site pages
+- [Links page section](https://help.podia.com/en/articles/11370928-links-page-section.md): Learn how to add a links page section to your site pages
+- [Call-to-action page section](https://help.podia.com/en/articles/11370935-call-to-action-page-section.md): Learn how to add a call-to-action section to your site pages
+- [Included products page section](https://help.podia.com/en/articles/11371137-included-products-page-section.md): Learn how to display included products in products and events sales pages
+- [Using Podia with your existing website](https://help.podia.com/en/articles/11370489-using-podia-with-your-existing-website.md): Learn how to integrate Podia with your existing website using links, embeds, and tools like Zapier in just a few simple steps.
+- [Quickly link to products, pages, coupons & more!](https://help.podia.com/en/articles/11370902-quickly-link-to-products-pages-coupons-more.md): Learn how to use quick links to easily link to other areas of your account
+- [Using columns on site pages](https://help.podia.com/en/articles/11370880-using-columns-on-site-pages.md): Learn how to use columns on site pages
+- [Adjusting the number of columns per row](https://help.podia.com/en/articles/11371125-adjusting-the-number-of-columns-per-row.md): Learn how to adjust the number of columns per row on your site pages
+- [Add borders to site page sections](https://help.podia.com/en/articles/11371124-add-borders-to-site-page-sections.md): Learn how to add borders to site page sections
+- [Set up column card height behavior](https://help.podia.com/en/articles/11371123-set-up-column-card-height-behavior.md): Learn how to customize column card height behavior on site pages
+- [Add animated backgrounds to your site](https://help.podia.com/en/articles/11370924-add-animated-backgrounds-to-your-site.md): Learn how to add animated backgrounds to page sections by using GIF files
+- [Featuring a specific product on site pages](https://help.podia.com/en/articles/11370913-featuring-a-specific-product-on-site-pages.md): Learn how to feature a specific plan, product or event on site pages
+- [Creating a "Link in bio" page](https://help.podia.com/en/articles/11370909-creating-a-link-in-bio-page.md): Learn how to create a Link in bio page using Podia
+- [Adjusting heading sizes of page sections](https://help.podia.com/en/articles/11370299-adjusting-heading-sizes-of-page-sections.md): Learn how to adjust heading sizes of elements of your site \(H1, H2, h3, h4, etc.\)
+- [Removing the header from site pages](https://help.podia.com/en/articles/11370873-removing-the-header-from-site-pages.md): Learn how to remove the header from specific site pages
+- [Adding buttons to your sections](https://help.podia.com/en/articles/11370826-adding-buttons-to-your-sections.md): Learn how to add button to sections of your site
+- [Creating an email capture page](https://help.podia.com/en/articles/11370810-creating-an-email-capture-page.md): Learn how to create a page to capture email addresses
+- [Using saved sections to quickly customize your website](https://help.podia.com/en/articles/11370461-using-saved-sections-to-quickly-customize-your-website.md): Learn how to use saved sections to save page sections and reuse them across other pages
+- [Creating a contact form](https://help.podia.com/en/articles/11370418-creating-a-contact-form.md): Learn different ways to add a contact form to your site pages
+- [Managing the "Login" button on your site](https://help.podia.com/en/articles/11371156-managing-the-login-button-on-your-site.md): Learn how to show or hide the login button on your site
+- [Customizing images and videos on your site pages](https://help.podia.com/en/articles/11370363-customizing-images-and-videos-on-your-site-pages.md): Learn how to customize width, corners and aspect ratio of images and videos of your site
+- [Connecting your Podia and Squarespace accounts](https://help.podia.com/en/articles/11370848-connecting-your-podia-and-squarespace-accounts.md): Learn how to integrate Podia with Squarespace by adding links, embedding email forms, and automating customer flows using Zapier.
+- [Managing the "Join" button on your site](https://help.podia.com/en/articles/14595503-managing-the-join-button-on-your-site.md): Learn how to manage the "Join" button on your site
+- [SEO In Podia](https://help.podia.com/en/articles/11370261-seo-in-podia.md): Learn how to optimize your Podia site for SEO
+- [Creating a landing page to capture email addresses](https://help.podia.com/en/articles/11371112-creating-a-landing-page-to-capture-email-addresses.md): Create a distraction-free landing page on Podia to capture customer leads and send them automated welcome campaigns.
+- [Tagging people who subscribe through an email form on your site](https://help.podia.com/en/articles/11370425-tagging-people-who-subscribe-through-an-email-form-on-your-site.md): Tags on Podia can greatly enhance your ability to segment audiences, trigger specific campaigns, and maintain efficient organization of customer details.
+- [Setting up a redirect behavior for email forms](https://help.podia.com/en/articles/11370470-setting-up-a-redirect-behavior-for-email-forms.md): Define the redirect behavior for email forms on your site pages
+- [Setting a custom homepage for your site](https://help.podia.com/en/articles/11370815-setting-a-custom-homepage-for-your-site.md): Learn how to assign a different homepage to your site
+- [Customize your Checkout Success page](https://help.podia.com/en/articles/11370821-customize-your-checkout-success-page.md): Learn how to customize your checkout success page
+- [Customizing your Terms & Conditions/Privacy Policy pages](https://help.podia.com/en/articles/11371011-customizing-your-terms-conditions-privacy-policy-pages.md): Learn how to update your Podia site's Terms and Privacy pages to protect your business and communicate your policies.
+- [Adding a cookie banner to your site](https://help.podia.com/en/articles/11371191-adding-a-cookie-banner-to-your-site.md): Learn how to add a cookie banner to your site
+- [Can I have a multi-language website?](https://help.podia.com/en/articles/11370289-can-i-have-a-multi-language-website.md): Learn how to set up a multi-language website on Podia with these workarounds
+- [Can I use Podia for my website?](https://help.podia.com/en/articles/11370352-can-i-use-podia-for-my-website.md): This guide covers ways you can use Podia as your website, and includes some real examples.
+- [Can I unpublish my website?](https://help.podia.com/en/articles/11370431-can-i-unpublish-my-website.md): Learn how to unpublish your website
+- [Re-scanning your Podia site cookies](https://help.podia.com/en/articles/11370434-re-scanning-your-podia-site-cookies.md): Learn how to re-scan your Podia site cookies in Cookie Script.
+- [Troubleshooting social media preview images](https://help.podia.com/en/articles/11370811-troubleshooting-social-media-preview-images.md): Learn how to troubleshoot issues with social media preview images not updating.
+- [Deleting or restarting your Podia website](https://help.podia.com/en/articles/11371135-deleting-or-restarting-your-podia-website.md): This guide goes over how to delete site sections and pages using Podia's site builder.
+
+## Blog
+
+- [Starting a blog on Podia](https://help.podia.com/en/articles/11029046-starting-a-blog-on-podia.md): Here's a step-by-step guide on how to start your blog on Podia
+- [Creating a new blog post](https://help.podia.com/en/articles/11370294-creating-a-new-blog-post.md)
+- [Editing a blog post](https://help.podia.com/en/articles/11370370-editing-a-blog-post.md)
+- [Editing blog post details](https://help.podia.com/en/articles/11370428-editing-blog-post-details.md)
+- [Deleting a blog post](https://help.podia.com/en/articles/11370467-deleting-a-blog-post.md)
+- [Unpublishing a blog post](https://help.podia.com/en/articles/11370814-unpublishing-a-blog-post.md)
+- [How to schedule a blog post](https://help.podia.com/en/articles/11370849-how-to-schedule-a-blog-post.md)
+- [How to change the URL of a blog post](https://help.podia.com/en/articles/11370874-how-to-change-the-url-of-a-blog-post.md)
+- [How to preview a blog post](https://help.podia.com/en/articles/11370891-how-to-preview-a-blog-post.md)
+- [Sharing blog posts](https://help.podia.com/en/articles/11370912-sharing-blog-posts.md)
+- [Emailing your blog posts](https://help.podia.com/en/articles/11371120-emailing-your-blog-posts.md)
+- [Editing your blog index page](https://help.podia.com/en/articles/11371083-editing-your-blog-index-page.md): Learn how to edit the main public page where all of your blog posts appear
+- [Editing your blog posts page](https://help.podia.com/en/articles/11371085-editing-your-blog-posts-page.md)
+- [Editing your blog category page](https://help.podia.com/en/articles/11371146-editing-your-blog-category-page.md)
+- [Using blog categories](https://help.podia.com/en/articles/11371144-using-blog-categories.md): This guide goes over how to use blog categories to organize your blog posts.
+- [Creating blog categories](https://help.podia.com/en/articles/11371147-creating-blog-categories.md): This guide goes over how to create blog categories to organize your posts.
+- [Deleting blog categories](https://help.podia.com/en/articles/11371148-deleting-blog-categories.md): Learn how to delete blog categories you've created.
+- [Renaming blog categories](https://help.podia.com/en/articles/11371149-renaming-blog-categories.md): Learn how to rename blog categories.
+- [Editing blog category page settings](https://help.podia.com/en/articles/11371150-editing-blog-category-page-settings.md): Learn how to update your blog category pages' URLs, SEO settings, and more.
+- [Editing your blog settings](https://help.podia.com/en/articles/11371086-editing-your-blog-settings.md): Learn how to edit your blog settings - include email templates, RSS feed & more!
+- [Managing comments for blog posts](https://help.podia.com/en/articles/11371092-managing-comments-for-blog-posts.md)
+- [Deleting your blog](https://help.podia.com/en/articles/11371095-deleting-your-blog.md)
+- [Editing your blog email template](https://help.podia.com/en/articles/11371119-editing-your-blog-email-template.md)
+- [SEO for blog posts](https://help.podia.com/en/articles/11370904-seo-for-blog-posts.md)
+- [Sharing your blog](https://help.podia.com/en/articles/11371099-sharing-your-blog.md): Learn how to share your blog
+- [Importing blog posts into Podia](https://help.podia.com/en/articles/11371101-importing-blog-posts-into-podia.md): Learn how to import blog posts into Podia
+- [Troubleshooting issues with Podia's blog importer](https://help.podia.com/en/articles/11371102-troubleshooting-issues-with-podia-s-blog-importer.md)
+- [Using your blog's RSS feed](https://help.podia.com/en/articles/11371087-using-your-blog-s-rss-feed.md): Learn how to use your blog's RSS feed
+
+## Email
+
+- [Getting Started with Podia Email](https://help.podia.com/en/articles/11164441-getting-started-with-podia-email.md): Podia’s email tools help you connect with your audience through one-off broadcasts and automated campaigns—all from one place.
+- [Creating an email broadcast](https://help.podia.com/en/articles/11370286-creating-an-email-broadcast.md): Learn how to send broadcast emails to your audience members.
+- [Understanding email broadcast recipients](https://help.podia.com/en/articles/11370367-understanding-email-broadcast-recipients.md): Learn about all the ways you can target audience members in your broadcasts.
+- [Sending an email to a single subscriber](https://help.podia.com/en/articles/11370424-sending-an-email-to-a-single-subscriber.md): Learn more about how to send a broadcast to a specific email address.
+- [Emailing customers from a particular product](https://help.podia.com/en/articles/11371064-emailing-customers-from-a-particular-product.md): Learn how to send emails to customers who have bought a particular product using audience filters.
+- [Sharing emails publicly](https://help.podia.com/en/articles/11371061-sharing-emails-publicly.md): Learn how to share the browser version of emails you send in Podia.
+- [Creating & sending email newsletters](https://help.podia.com/en/articles/11371063-creating-sending-email-newsletters.md): Learn how to use Podia's broadcast feature to send newsletters to your audience
+- [Creating an email campaign](https://help.podia.com/en/articles/11370413-creating-an-email-campaign.md): Learn how to create automated email sequences to reach your customers after they take a specific action.
+- [What happens if I add a new email to an existing email campaign?](https://help.podia.com/en/articles/11370836-what-happens-if-i-add-a-new-email-to-an-existing-email-campaign.md): Learn exactly what your subscribers experience if you edit a running campaign.
+- [What happens if I pause & resume a campaign?](https://help.podia.com/en/articles/11370876-what-happens-if-i-pause-resume-a-campaign.md): Learn what happens to a campaign after it's been paused and resumed
+- [Sending renewal reminders for upcoming recurring payments](https://help.podia.com/en/articles/11371143-sending-renewal-reminders-for-upcoming-recurring-payments.md): Learn how to set up reminder emails for your members' upcoming recurring payments
+- [Re-including subscribers in your email campaigns](https://help.podia.com/en/articles/13130214-re-including-subscribers-in-your-email-campaigns.md)
+- [Designing emails on Podia](https://help.podia.com/en/articles/11370291-designing-emails-on-podia.md): Learn more about the design options available in Podia's email builder.
+- [Using premade email templates](https://help.podia.com/en/articles/11370366-using-premade-email-templates.md): Learn how to apply email templates to your broadcasts and campaigns.
+- [Adding name personalization to your emails](https://help.podia.com/en/articles/11370447-adding-name-personalization-to-your-emails.md): Learn how to personalize your emails using Podia's email builder.
+- [Email formatting best practices](https://help.podia.com/en/articles/11370398-email-formatting-best-practices.md): Learn about all the options you have to format your broadcasts and campaigns in Podia.
+- [Email section types](https://help.podia.com/en/articles/11371078-email-section-types.md): Learn about how to add images, videos, files, and more to your emails using email sections.
+- [Duplicating emails](https://help.podia.com/en/articles/11370399-duplicating-emails.md): Learn how to duplicate broadcasts and campaigns in Podia.
+- [Sending yourself a test email](https://help.podia.com/en/articles/11370360-sending-yourself-a-test-email.md): Learn how to send yourself a test email before sending a broadcast or campaign to your audience.
+- [Resending an email to unopened recipients](https://help.podia.com/en/articles/11371114-resending-an-email-to-unopened-recipients.md): Learn how to use audience filters to resend an email to audience members who haven't opened it.
+- [Managing bounced subscribers](https://help.podia.com/en/articles/11105272-managing-bounced-subscribers.md): Learn why emails bounce, how Podia handles them, and how to manage and prevent bounced subscribers.
+- [Filtering contacts based on email engagement](https://help.podia.com/en/articles/11371151-filtering-contacts-based-on-email-engagement.md): Learn how to filter your audience based on their email activity
+- [Understanding the email warm-up period](https://help.podia.com/en/articles/11371121-understanding-the-email-warm-up-period.md): Newer accounts enter a temporary warm-up period to protect their sending reputation. Learn more in this article.
+- [Viewing email broadcast analytics](https://help.podia.com/en/articles/11371044-viewing-email-broadcast-analytics.md): Learn about the analytics available to you when you send broadcasts on Podia.
+- [Viewing email campaign analytics](https://help.podia.com/en/articles/11371162-viewing-email-campaign-analytics.md): Learn about the analytics available to you when you run campaigns on Podia.
+- [Filter, sort, and search for specific emails](https://help.podia.com/en/articles/11371069-filter-sort-and-search-for-specific-emails.md): Learn how to search for past broadcast and campaign emails in your Podia account.
+- [Understanding email deliverability rates](https://help.podia.com/en/articles/11370426-understanding-email-deliverability-rates.md): This guide goes over best practices for improving your email deliverability rates.
+- [Embedding an email form to an external site](https://help.podia.com/en/articles/11370369-embedding-an-email-form-to-an-external-site.md): Learn how to embed a Podia-hosted email form onto an external website.
+- [Creating a "welcome email" for your products](https://help.podia.com/en/articles/11370462-creating-a-welcome-email-for-your-products.md): Learn how to create a campaign to send a personalized welcome email to your customers.
+- [Creating a confirmation email for your waitlist](https://help.podia.com/en/articles/11370500-creating-a-confirmation-email-for-your-waitlist.md): Learn how to create a campaign to send a personalized email when someone signs up for a waitlist.
+- [Tagging subscribers based on email clicks](https://help.podia.com/en/articles/11370846-tagging-subscribers-based-on-email-clicks.md): Learn how to automatically tag subscribers based on links they click in your emails.
+- [Updates to sending requirements for Gmail, Yahoo and Outlook](https://help.podia.com/en/articles/11371089-updates-to-sending-requirements-for-gmail-yahoo-and-outlook.md): Learn how to ensure emails are delivered to Gmail and Yahoo recipients if you qualify as a bulk sender.
+- [Avoiding the Gmail promotions tab](https://help.podia.com/en/articles/11371113-avoiding-the-gmail-promotions-tab.md): This article covers tips on how to avoid the promotions tab in Gmail
+- [Editing email URLs](https://help.podia.com/en/articles/11552478-editing-email-urls.md): Learn how to edit email URLs after an email is already sent
+- [Podia Email FAQs](https://help.podia.com/en/articles/11371062-podia-email-faqs.md): Read this article for everything you need to know to get started with email marketing on Podia.
+- [What are "transactional" and "marketing" emails?](https://help.podia.com/en/articles/11370254-what-are-transactional-and-marketing-emails.md): Learn more about the difference between automated system emails and marketing emails in Podia, and why it matters.
+- [Why are some of my customers not also subscribers?](https://help.podia.com/en/articles/11370338-why-are-some-of-my-customers-not-also-subscribers.md): This article covers how to see whether your customers are also subscribed to receive marketing emails from you
+- [Adding a preview text for your emails](https://help.podia.com/en/articles/11370423-adding-a-preview-text-for-your-emails.md): Learn more about how to customize preview text in broadcast sand campaigns
+- [Email sending limitations](https://help.podia.com/en/articles/13130744-email-sending-limitations.md)
+
+## Audience
+
+- [Viewing a contact's profile](https://help.podia.com/en/articles/11370282-viewing-a-contact-s-profile.md): Learn how to search for specific contacts in your audience and view their profile
+- [Understanding email subscription statuses](https://help.podia.com/en/articles/11370305-understanding-email-subscription-statuses.md): Learn how to check if your members are subscribed to receive marketing email
+- [Understanding account completion statuses](https://help.podia.com/en/articles/11371097-understanding-account-completion-statuses.md): Learn more about how account creation works on Podia, and how customers with incomplete accounts can complete them.
+- [Understanding subscribers' email preferences](https://help.podia.com/en/articles/11370427-understanding-subscribers-email-preferences.md): Learn how your customers can manage their email subscription preferences.
+- [Exporting your contacts](https://help.podia.com/en/articles/11370285-exporting-your-contacts.md): Learn how to export your contacts
+- [Deleting contacts](https://help.podia.com/en/articles/11370492-deleting-contacts.md): Learn how to delete contacts and accounts from your audience.
+- [Sending an account setup email for incomplete accounts](https://help.podia.com/en/articles/11371100-sending-an-account-setup-email-for-incomplete-accounts.md): Learn how to resend an account setup email to customers with incomplete accounts.
+- [Resending a confirmation email to unconfirmed subscribers](https://help.podia.com/en/articles/11371065-resending-a-confirmation-email-to-unconfirmed-subscribers.md): Learn how to resend confirmation emails to unconfirmed subscribers if they missed it.
+- [Unsubscribing contacts from marketing emails](https://help.podia.com/en/articles/11370843-unsubscribing-contacts-from-marketing-emails.md): Learn how to unsubscribe contacts from marketing emails
+- [Importing emails and customers into your contacts](https://help.podia.com/en/articles/11370279-importing-emails-and-customers-into-your-contacts.md): Learn how to import emails into your contacts and, optionally, give them access to products
+- [Adding a new contact to your audience](https://help.podia.com/en/articles/11370365-adding-a-new-contact-to-your-audience.md): Learn how to add someone to your audience using their email address
+- [Importing customers into products/plans/events](https://help.podia.com/en/articles/11552617-importing-customers-into-products-plans-events.md): Learn how to bulk import people as customers of products, events and/or plans
+- [Why is my import being rejected?](https://help.podia.com/en/articles/11370420-why-is-my-import-being-rejected.md): Learn about common issues email imports are rejected, and how to fix them.
+- [Getting started with tags](https://help.podia.com/en/articles/11370288-getting-started-with-tags.md): This guide goes through the basics of using tags to organize your audience.
+- [Creating tags](https://help.podia.com/en/articles/11370364-creating-tags.md): Learn how to create tags in your Podia account
+- [Adding and removing tags for contacts in your audience](https://help.podia.com/en/articles/11370417-adding-and-removing-tags-for-contacts-in-your-audience.md): Learn how to add and remove tags from contacts in your Podia account
+- [Managing tags](https://help.podia.com/en/articles/11370454-managing-tags.md): Learn how to untag, rename and delete tags
+- [Applying filters to your audience](https://help.podia.com/en/articles/11371046-applying-filters-to-your-audience.md): This guide goes over all the filtering options you have in your audience page.
+- [Creating audience segments](https://help.podia.com/en/articles/11371048-creating-audience-segments.md): Learn how to create a customer segment using audience filters.
+- [Editing audience segments](https://help.podia.com/en/articles/11371050-editing-audience-segments.md): Learn how to edit segments you've created in your Podia account.
+- [Deleting an audience segment](https://help.podia.com/en/articles/11371051-deleting-an-audience-segment.md): Learn how to delete an audience segment from your Podia account.
+- [Can I "merge" accounts?](https://help.podia.com/en/articles/11370482-can-i-merge-accounts.md): Learn what to do if a customer has accidentally purchased products or plans on different emails
+- [Troubleshooting member login issues](https://help.podia.com/en/articles/11370856-troubleshooting-member-login-issues.md): This guide goes over common issues members run into when logging in to your Podia site, and how to resolve them.
+- [Troubleshooting "Error 1015: You have been rate limited"](https://help.podia.com/en/articles/13618463-troubleshooting-error-1015-you-have-been-rate-limited.md): Learn how to troubleshoot Error 1015: You have been rate limited
+
+## Sales
+
+- [Viewing and exporting your sales](https://help.podia.com/en/articles/11371040-viewing-and-exporting-your-sales.md): Learn how to view and export your sales invoices and data
+- [Viewing an individual invoice](https://help.podia.com/en/articles/11371042-viewing-an-individual-invoice.md): Learn how to view an individual invoice in your Podia account.
+- [Managing payment plans](https://help.podia.com/en/articles/11370990-managing-payment-plans.md): This guide goes over how to manage failed payment plans, such as viewing, canceling and retrying installments
+- [Managing subscriptions](https://help.podia.com/en/articles/11758620-managing-subscriptions.md): Learn how to view and manage active customer subscriptions on your Podia account
+- [Canceling someone's subscription](https://help.podia.com/en/articles/11371024-canceling-someone-s-subscription.md): Learn how to cancel someone's subscription on Podia
+- [Issuing refunds](https://help.podia.com/en/articles/11371041-issuing-refunds.md): Learn how to refund product purchases, payment plan installments, and subscriptions
+- [Understanding Tax Reporting](https://help.podia.com/en/articles/11371088-understanding-tax-reporting.md): Learn how to use your Podia sales export for tax reporting purposes
+- [Checking why a payment failed in Stripe](https://help.podia.com/en/articles/11371103-checking-why-a-payment-failed-in-stripe.md): This guide goes over how to check a payment's status in your Stripe account.
+- [Adjusting a customer's Stripe balance](https://help.podia.com/en/articles/11371132-adjusting-a-customer-s-stripe-balance.md): Learn how to use Stripe's credit balance feature, and when you might want to use it.
+- [Handling customer disputes](https://help.podia.com/en/articles/11371141-handling-customer-disputes.md): This guide goes over best practices for handling chargebacks from your customers.
+- [How quickly do I get paid?](https://help.podia.com/en/articles/11371045-how-quickly-do-i-get-paid.md): Learn how soon funds will become available to you after a sale is made on Podia
+- [Using coupon codes on Podia](https://help.podia.com/en/articles/11060047-using-coupon-codes-on-podia.md): Learn how to use coupon codes to offer discounts for your products and plans
+- [Creating a coupon code](https://help.podia.com/en/articles/11370253-creating-a-coupon-code.md): This guide goes over how to create a coupon code in Podia.
+- [Editing a coupon code](https://help.podia.com/en/articles/11370304-editing-a-coupon-code.md): Learn how to make changes to a coupon you've created.
+- [Applying and sharing coupon codes](https://help.podia.com/en/articles/11370379-applying-and-sharing-coupon-codes.md): Learn how to apply and share coupon codes once you've created them.
+- [Archiving and unarchiving coupons](https://help.podia.com/en/articles/11370475-archiving-and-unarchiving-coupons.md): Learn how to archive and unarchive a coupon to manage its availability.
+- [Exporting coupon codes](https://help.podia.com/en/articles/11370437-exporting-coupon-codes.md): Learn how to export the coupon codes you've created in your Podia account.
+- [Viewing customer usage of coupons](https://help.podia.com/en/articles/11095637-viewing-customer-usage-of-coupons.md): An overview of how to view coupon usage for individual coupons.
+
+## Affiliates
+
+- [Getting Started with Affiliates on Podia](https://help.podia.com/en/articles/11125214-getting-started-with-affiliates-on-podia.md): Creating an affiliate program on Podia is quick and easy. Here's everything you need to know about setting up an affiliate program on Podia.
+- [Adding people to your affiliate program](https://help.podia.com/en/articles/11125241-adding-people-to-your-affiliate-program.md): Learn how to add people to your affiliate program on Podia
+- [Viewing and managing affiliates](https://help.podia.com/en/articles/11370852-viewing-and-managing-affiliates.md): This article goes over Podia's affiliate dashboard.
+- [Paying your affiliates](https://help.podia.com/en/articles/11370266-paying-your-affiliates.md): Learn how to pay your affiliates using PayPal.
+- [Managing your Affiliate's program settings](https://help.podia.com/en/articles/11370817-managing-your-affiliate-s-program-settings.md): Learn more the options you have to manage your affiliate program on Podia.
+- [Adding coupons to affiliate links](https://help.podia.com/en/articles/11370441-adding-coupons-to-affiliate-links.md): Learn how to add coupon codes to affiliate links
+- [Sharing your affiliate program with non-members](https://help.podia.com/en/articles/11370483-sharing-your-affiliate-program-with-non-members.md): Podia's affiliate feature turns your members into affiliates. Here's how to invite non-members into your affiliate program.
+- [Understanding your affiliates' experience](https://help.podia.com/en/articles/11371116-understanding-your-affiliates-experience.md): This guide goes over what your affiliates will see when they sign up for your affiliate program
+- [Adjusting the affiliate attribution window](https://help.podia.com/en/articles/11370473-adjusting-the-affiliate-attribution-window.md): Learn how to adjust the attribution window for your affiliate program.
+- [Excluding products from affiliates](https://help.podia.com/en/articles/11371127-excluding-products-from-affiliates.md): Learn how to exclude products/events/plans from your affiliate program
+- [Setting up product-specific affiliate commissions](https://help.podia.com/en/articles/11370405-setting-up-product-specific-affiliate-commissions.md): Learn how to set up product-specific commissions that override your affiliate program's default commission
+- [Building an affiliate program with Podia FAQs](https://help.podia.com/en/articles/11125244-building-an-affiliate-program-with-podia-faqs.md): Check out out frequently asked questions about building an affiliate program with Podia
+- [Becoming a Podia Affiliate](https://help.podia.com/en/articles/11370941-becoming-a-podia-affiliate.md): Learn how to become a Podia affiliate
+- [Podia’s Refer-a-Friend program](https://help.podia.com/en/articles/11371033-podia-s-refer-a-friend-program.md): Refer people to Podia and earn credits
+- [Add your Refer-a-Friend code to your Podia site](https://help.podia.com/en/articles/11371134-add-your-refer-a-friend-code-to-your-podia-site.md): Learn how to add your referral code to your site and emails to easily refer your network to Podia.
+
+## Settings
+
+- [Managing general settings](https://help.podia.com/en/articles/11370968-managing-general-settings.md): Learn about the General settings available to customize your Podia account
+- [Managing your brand settings](https://help.podia.com/en/articles/14625953-managing-your-brand-settings.md): Learn more about updating your brand settings
+- [Updating your home feed banner](https://help.podia.com/en/articles/14625778-updating-your-home-feed-banner.md): Learn how to update your home feed banner
+- [Setting your site's default language](https://help.podia.com/en/articles/11370274-setting-your-site-s-default-language.md): Learn how to set the default language of your site
+- [Changing your site's currency](https://help.podia.com/en/articles/11370356-changing-your-site-s-currency.md): Learn how to change your Podia site currency, and what currencies we support.
+- [Adding a logo to your site](https://help.podia.com/en/articles/11370392-adding-a-logo-to-your-site.md): Learn how to add or change the logo of your site
+- [Badges](https://help.podia.com/en/articles/11370961-badges.md): Learn how badges work in your account, and how to customize them
+- [Managing member profile visibility in your community](https://help.podia.com/en/articles/14636376-managing-member-profile-visibility-in-your-community.md): Learn how to manage profile visibility in your community
+- [Displaying an "Upgrade Plan" button for free members](https://help.podia.com/en/articles/15192132-displaying-an-upgrade-plan-button-for-free-members.md): Learn how to display an upgrade button on the home feed to help free members sign up for a paid plan
+- [Customizing your Products page](https://help.podia.com/en/articles/15381786-customizing-your-products-page.md): Customize how your Products page appears to members
+- [Changing your default Home feed sort](https://help.podia.com/en/articles/15434406-changing-your-default-home-feed-sort.md): Learn how to choose the default Home Feed sorting option for your members
+- [Removing "Powered By Podia" from your site and emails](https://help.podia.com/en/articles/11370438-removing-powered-by-podia-from-your-site-and-emails.md): Learn more about how to remove Podia branding from your site and emails
+- [Setting the default notification schedule for members](https://help.podia.com/en/articles/15460419-setting-the-default-notification-schedule-for-members.md): Define the default notification schedule for new members
+- [Managing Chat settings](https://help.podia.com/en/articles/11370998-managing-chat-settings.md): Learn how to manage your chat settings and define who can chat in your account
+- [Customizing your Podia theme](https://help.podia.com/en/articles/15693975-customizing-your-podia-theme.md): Learn how to customize Podia \(home feed and admin\) colors
+- [Managing profile setup for members](https://help.podia.com/en/articles/15694090-managing-profile-setup-for-members.md): Learn how to enable or disable profile setup step for your members
+- [Changing your email subscription settings](https://help.podia.com/en/articles/11370290-changing-your-email-subscription-settings.md): Learn how to change your email subscription settings to auto-subscribe customer or let them opt in
+- [Updating your email subscription message](https://help.podia.com/en/articles/11370351-updating-your-email-subscription-message.md): Learn how to customize your email subscription opt-in message
+- [Changing your email opt-in settings](https://help.podia.com/en/articles/11370388-changing-your-email-opt-in-settings.md): How to change your email opt-in settings and require double opt-in for email subscriptions.
+- [Setting up your default Email form tag](https://help.podia.com/en/articles/11370457-setting-up-your-default-email-form-tag.md): Learn how to set your default Podia email form tag to automatically tag subscribers who sign up through your email capture forms.
+- [Customizing your default email sender name](https://help.podia.com/en/articles/11371071-customizing-your-default-email-sender-name.md): Learn how to customize your default sender name for your emails.
+- [Setting up a custom email sender address](https://help.podia.com/en/articles/11370277-setting-up-a-custom-email-sender-address.md): Learn how to send broadcasts and campaigns from a custom email address that you own
+- [Updating your mailing address](https://help.podia.com/en/articles/11370474-updating-your-mailing-address.md): How to adjust the mailing address that is shown inside the footer section of your emails.
+- [Managing email open tracking](https://help.podia.com/en/articles/11370824-managing-email-open-tracking.md): Learn how to manage your email open tracking settings
+- [Accepting payments in Podia](https://help.podia.com/en/articles/11370248-accepting-payments-in-podia.md): Learn how to connect a Stripe or PayPal account to your Podia account to collect payments.
+- [Connecting Stripe To Your Podia Account](https://help.podia.com/en/articles/11321150-connecting-stripe-to-your-podia-account.md): Learn how to connect Stripe to your Podia account and accept payments
+- [Connecting PayPal To Your Podia Account](https://help.podia.com/en/articles/11321953-connecting-paypal-to-your-podia-account.md): Learn how to connect PayPal to your Podia account and accept payments
+- [How to enable iDEAL on Podia](https://help.podia.com/en/articles/11370818-how-to-enable-ideal-on-podia.md): Learn how to enable iDEAL in your Stripe account for eligible customers.
+- [Enabling Google Pay and Apple Pay on Podia](https://help.podia.com/en/articles/11370855-enabling-google-pay-and-apple-pay-on-podia.md): Learn how to enable Google Pay and Apple Pay in your Stripe account.
+- [Collecting sales taxes on Podia](https://help.podia.com/en/articles/11370382-collecting-sales-taxes-on-podia.md): Learn how to set up automatic tax collection on Podia.
+- [What jurisdictions can I collect taxes in?](https://help.podia.com/en/articles/11370435-what-jurisdictions-can-i-collect-taxes-in.md): Learn more about the jurisdictions you can collect taxes in on Podia.
+- [Collecting and viewing customer address](https://help.podia.com/en/articles/11370478-collecting-and-viewing-customer-address.md): Learn how to collect customer addresses on Podia
+- [Adding information to your invoices](https://help.podia.com/en/articles/11371080-adding-information-to-your-invoices.md): Learn how to add additional information, like a VAT number, to Podia invoices.
+- [Changing checkout account setup preferences](https://help.podia.com/en/articles/11371091-changing-checkout-account-setup-preferences.md): You can choose whether to let customers create an account before or after paying for a product. Learn more about what that entails here.
+- [Change the URL \(subdomain\) of your Podia site](https://help.podia.com/en/articles/11370287-change-the-url-subdomain-of-your-podia-site.md): Learn how to change the subdomain of your Podia site, and how that affects your site page links.
+- [Setting up a custom domain](https://help.podia.com/en/articles/11553457-setting-up-a-custom-domain.md): Here's how to connect a custom domain to your Podia account
+- [Disconnecting your custom domain](https://help.podia.com/en/articles/11370429-disconnecting-your-custom-domain.md): Learn how to disconnect your custom domain from your Podia account.
+- [Troubleshooting custom domain error messages](https://help.podia.com/en/articles/11370471-troubleshooting-custom-domain-error-messages.md): Having trouble connecting your custom domain? Here are common troubleshooting steps to take.
+- [Using Redirect Pizza to create a redirect for your custom domain](https://help.podia.com/en/articles/11370498-using-redirect-pizza-to-create-a-redirect-for-your-custom-domain.md): We support www domains only, but you can set up a redirect so the naked domain forwards to your Podia site.
+- [Impacts of changing/disconnecting your domain on email links](https://help.podia.com/en/articles/11551686-impacts-of-changing-disconnecting-your-domain-on-email-links.md): Learn what happens to email links when you disconnect or change your domain
+- [Connecting your GoDaddy domain to your Podia site](https://help.podia.com/en/articles/11370844-connecting-your-godaddy-domain-to-your-podia-site.md): A step-by-step guide on how to connect a GoDaddy domain to your Podia site.
+- [Connecting your Squarespace domain to your Podia site](https://help.podia.com/en/articles/11370870-connecting-your-squarespace-domain-to-your-podia-site.md): A step-by-step guide on how to connect a Squarespace domain to your Podia site.
+- [Connecting your Bluehost domain to your Podia site](https://help.podia.com/en/articles/11370889-connecting-your-bluehost-domain-to-your-podia-site.md): A step-by-step guide on how to connect a Bluehost domain to your Podia site.
+- [Connecting your Wix domain to your Podia site](https://help.podia.com/en/articles/11370901-connecting-your-wix-domain-to-your-podia-site.md): A step-by-step guide on how to connect a Wix domain to your Podia site.
+- [Connecting your Hover domain to your Podia site](https://help.podia.com/en/articles/11370911-connecting-your-hover-domain-to-your-podia-site.md): A step-by-step guide on how to connect a Hover domain to your Podia site.
+- [Connecting your HostGator domain to your Podia site](https://help.podia.com/en/articles/11370917-connecting-your-hostgator-domain-to-your-podia-site.md): A step-by-step guide on how to connect a Hostgator domain to your Podia site.
+- [Connecting your OVH domain to your Podia site](https://help.podia.com/en/articles/11370923-connecting-your-ovh-domain-to-your-podia-site.md): A step-by-step guide on how to connect an OVH domain to your Podia site.
+- [Connecting your Cloudflare domain to your Podia site](https://help.podia.com/en/articles/11370927-connecting-your-cloudflare-domain-to-your-podia-site.md): A step-by-step guide on how to connect a Cloudflare domain to your Podia site.
+- [Connecting your Namecheap domain to your Podia site](https://help.podia.com/en/articles/11370932-connecting-your-namecheap-domain-to-your-podia-site.md): A step-by-step guide on how to connect a Namecheap domain to your Podia site.
+- [Connecting your Square \(or Weebly\) domain to your Podia site](https://help.podia.com/en/articles/11370934-connecting-your-square-or-weebly-domain-to-your-podia-site.md): A step-by-step guide on how to connect a Square \(formerly Weebly\) domain to your Podia site.
+- [Managing assistants](https://help.podia.com/en/articles/11370992-managing-assistants.md): Learn how to manage assistants in your Podia account
+- [Why is my account locked?](https://help.podia.com/en/articles/11371055-why-is-my-account-locked.md): Learn about how to get your account unlocked if you are placed under manual review.
+- [Changing your Podia plan](https://help.podia.com/en/articles/11370280-changing-your-podia-plan.md): Learn how to change your Podia plan anytime—from upgrading to downgrading—directly from your billing page.
+- [Upgrading to a paid Podia plan](https://help.podia.com/en/articles/11370357-upgrading-to-a-paid-podia-plan.md): Learn how to upgrade to a paid Podia plan
+- [Updating the payment method for your Podia subscription](https://help.podia.com/en/articles/11370414-updating-the-payment-method-for-your-podia-subscription.md): Learn how to update the payment method used for your Podia subscription
+- [Canceling your Podia subscription](https://help.podia.com/en/articles/11370869-canceling-your-podia-subscription.md): Learn how to cancel your plan, and what happens to your account once you cancel.
+- [Can I pause my Podia subscription?](https://help.podia.com/en/articles/11370433-can-i-pause-my-podia-subscription.md): You can cancel your subscription to pause renewals, but there are repercussions you should be aware of.
+- [What happens when I cancel my account?](https://help.podia.com/en/articles/11370476-what-happens-when-i-cancel-my-account.md): Learn more about what happens to your account and site when you cancel your Podia subscription
+- [What happens if I downgrade my account?](https://help.podia.com/en/articles/11370819-what-happens-if-i-downgrade-my-account.md): Learn more about what happens to your Podia account if you downgrade your Podia subscription.
+- [Is sales tax collected on my Podia subscription?](https://help.podia.com/en/articles/11370900-is-sales-tax-collected-on-my-podia-subscription.md): We collect sales tax on Podia subscriptions in certain US states.
+- [Can I get a refund for my Podia subscription?](https://help.podia.com/en/articles/11370910-can-i-get-a-refund-for-my-podia-subscription.md): Learn more about Podia's refund policy
+- [Troubleshooting failed Podia subscription payments](https://help.podia.com/en/articles/11371079-troubleshooting-failed-podia-subscription-payments.md): Learn what to do if you run into issues paying for a Podia plan.
+- [Find and download your Podia subscription invoices](https://help.podia.com/en/articles/11371081-find-and-download-your-podia-subscription-invoices.md): Learn how to access invoices for your Podia plan
+- [30-day Trial FAQs](https://help.podia.com/en/articles/11371126-30-day-trial-faqs.md): Everything you need to know about how Podia's free trial works.
+- [Deleting your Podia account](https://help.podia.com/en/articles/11371130-deleting-your-podia-account.md): Learn how to permanently delete your Podia account.
+- [Understanding Podia transaction fees](https://help.podia.com/en/articles/11371138-understanding-podia-transaction-fees.md): Learn more about the transaction fees we charge on our Mover plan
+- [Podia plans & pricing FAQs](https://help.podia.com/en/articles/11370888-podia-plans-pricing-faqs.md): Everything you need to know about Podia's pricing and plans.
+- [Understanding Podia plan limits](https://help.podia.com/en/articles/15350975-understanding-podia-plan-limits.md): Understand the limits on each plan
+- [What happens if I disconnect/change my Stripe account?](https://help.podia.com/en/articles/11370303-what-happens-if-i-disconnect-change-my-stripe-account.md): Learn the implications of changing or disconnecting your Stripe account on Podia
+- [Why do customers see "By providing your card information, you allow... to charge your card for future payments" during checkout?](https://help.podia.com/en/articles/11370378-why-do-customers-see-by-providing-your-card-information-you-allow-to-charge-your-card-for-future-payments-during-checkout.md): Our checkout form has default language in place, but your customers will never be charged outside of what you have set up.
+- [Understanding system-generated emails](https://help.podia.com/en/articles/11371115-understanding-system-generated-emails.md): Learn more about transactional emails
+- [Managing Admin notifications](https://help.podia.com/en/articles/15565211-managing-admin-notifications.md): Learn how to manage your Admin notifications
+
+## Analytics
+
+- [Installing Google Analytics](https://help.podia.com/en/articles/11371038-installing-google-analytics.md): A step by step guide on how to install Google Analytics on your Podia account.
+- [Connecting a Facebook/Meta Pixel ID](https://help.podia.com/en/articles/11370948-connecting-a-facebook-meta-pixel-id.md): A step by step guide on how to connect a Meta Pixel ID to your Podia account.
+- [Installing a Pinterest Tag](https://help.podia.com/en/articles/11370949-installing-a-pinterest-tag.md): A step by step guide on how to install a Pinterest Tag on your Podia account.
+- [Installing third-party apps on your Podia site](https://help.podia.com/en/articles/11371020-installing-third-party-apps-on-your-podia-site.md): A step by step guide on where to install third party scripts in your Podia site, and what code we support.
+- [Installing advanced analytics](https://help.podia.com/en/articles/11371032-installing-advanced-analytics.md): This guide covers how to install advanced analytics tracking on your Podia account.
+- [Using a "Thank you" page for conversion purposes](https://help.podia.com/en/articles/11370947-using-a-thank-you-page-for-conversion-purposes.md): Learn how to use your products' checkout success pages to track conversions.
+- [Advanced JavaScript tracking API](https://help.podia.com/en/articles/11371023-advanced-javascript-tracking-api.md): A guide for advanced users on tracking conversions with JavaScript objects.
+- [Troubleshooting Analytics and Conversion Tracking issues](https://help.podia.com/en/articles/11371013-troubleshooting-analytics-and-conversion-tracking-issues.md): This guide goes over common troubleshooting steps to take if your analytics tracking isn't working.
+- [How do I use Domain Verification for my Facebook Pixel?](https://help.podia.com/en/articles/11370972-how-do-i-use-domain-verification-for-my-facebook-pixel.md): This guide covers how to verify your domain in Meta using a TXT record.
+
+## Files
+
+- [Getting started with the Files Library](https://help.podia.com/en/articles/11370300-getting-started-with-the-files-library.md): Learn how to use our Files Library to manage content you upload to products.
+- [Video limits](https://help.podia.com/en/articles/11370374-video-limits.md): Learn more about video limits per plan on Podia
+- [Adding items to your Files Library](https://help.podia.com/en/articles/11370432-adding-items-to-your-files-library.md): Learn how items get added to your Files Library
+- [Deleting items from your Files Library](https://help.podia.com/en/articles/11370472-deleting-items-from-your-files-library.md): Learn how to delete items from your media library and how it affects your products.
+- [Downloading items from your Files Library](https://help.podia.com/en/articles/11370487-downloading-items-from-your-files-library.md): Learn how to download files from your Files Library
+- [Reusing Files Library items](https://help.podia.com/en/articles/11370854-reusing-files-library-items.md): Learn how to re-use files across products using the Files Library.
+- [Managing duplicated items in your Files Library](https://help.podia.com/en/articles/11370877-managing-duplicated-items-in-your-files-library.md): If you've uploaded the same file to multiple products, learn how to locate and delete these in your Files Library.
+- [Image sizes & format guidelines](https://help.podia.com/en/articles/11370859-image-sizes-format-guidelines.md): Learn about our supported file sizes and types for images
+- [Video sizes & format guidelines](https://help.podia.com/en/articles/11371129-video-sizes-format-guidelines.md): Learn about our supported file sizes and types for videos.
+- [Backing up files & protecting your content](https://help.podia.com/en/articles/11371136-backing-up-files-protecting-your-content.md): While Podia is not intended to be your primary back-up, here are some tips on how to create a back-up of files you upload to Podia.
+
+## Integrations
+
+- [Connecting Podia to other platforms using Zapier](https://help.podia.com/en/articles/11370276-connecting-podia-to-other-platforms-using-zapier.md): Learn how to integrate Podia with third-party platforms using Zapier.
+- [Configuring a "Someone Gets Tagged" trigger using Zapier](https://help.podia.com/en/articles/11370905-configuring-a-someone-gets-tagged-trigger-using-zapier.md): Learn how to create a Zap that fires when a tag is added to a customer's account in Podia.
+- [Configuring a "Someone Leaves Community" trigger using Zapier](https://help.podia.com/en/articles/11370896-configuring-a-someone-leaves-community-trigger-using-zapier.md): Learn how to create a Zap that fires when someone cancels a community plan.
+- [Configuring a "Published Blog Post" trigger using Zapier](https://help.podia.com/en/articles/11370892-configuring-a-published-blog-post-trigger-using-zapier.md): Learn how to create a Zap that fires when you publish a blog post.
+- [Configuring a "Someone Joins Community" trigger using Zapier](https://help.podia.com/en/articles/11370884-configuring-a-someone-joins-community-trigger-using-zapier.md): Learn how to create a Zap that triggers when someone joins your community.
+- [Configuring a "Someone Waitlists" trigger using Zapier](https://help.podia.com/en/articles/11370872-configuring-a-someone-waitlists-trigger-using-zapier.md): Learn how to create a Zap that fires when someone signs up for a waitlist in Podia.
+- [Signing someone up for a product using Zapier](https://help.podia.com/en/articles/11370354-signing-someone-up-for-a-product-using-zapier.md): Learn how to create a Zap that adds someone to a product on Podia.
+- [Removing Someone From Your Community using Zapier](https://help.podia.com/en/articles/11370480-removing-someone-from-your-community-using-zapier.md): Learn how to create a Zap to remove someone from your community in Podia.
+- [Subscribing someone in Podia using Zapier](https://help.podia.com/en/articles/11370445-subscribing-someone-in-podia-using-zapier.md): Learn how to create a Zap that adds someone as a subscriber in your Podia audience.
+- [Adding Someone To A Plan using Zapier](https://help.podia.com/en/articles/11370409-adding-someone-to-a-plan-using-zapier.md): Learn how to create a Zap that adds someone to a plan on Podia.
+- [Getting started with email integrations](https://help.podia.com/en/articles/11370296-getting-started-with-email-integrations.md): This guide goes over the basics of Podia's integrations with third party email marketing platforms.
+- [Syncing external email tags/lists to your Podia contacts](https://help.podia.com/en/articles/11370307-syncing-external-email-tags-lists-to-your-podia-contacts.md): Learn how to syncing your Podia products and email forms to specific lists and segments in a third-party email marketing platform.
+- [Connecting your Podia and MailChimp accounts \(MailChimp integration\)](https://help.podia.com/en/articles/11370408-connecting-your-podia-and-mailchimp-accounts-mailchimp-integration.md): A step by step guide on how to connect your Podia and Mailchimp accounts.
+- [Connecting your Podia and MailerLite accounts \(MailerLite Integration\)](https://help.podia.com/en/articles/11370450-connecting-your-podia-and-mailerlite-accounts-mailerlite-integration.md): A step by step guide on how to connect your Podia and MailerLite accounts.
+- [Connecting your Podia and Flodesk accounts \(Flodesk integration\)](https://help.podia.com/en/articles/11370812-connecting-your-podia-and-flodesk-accounts-flodesk-integration.md): A step by step guide on how to connect your Podia and Flodesk accounts.
+- [Connecting your Podia and Kit accounts \(ConvertKit integration\)](https://help.podia.com/en/articles/11370835-connecting-your-podia-and-kit-accounts-convertkit-integration.md): A step by step guide on how to connect your Podia and Kit \(ConvertKit\) accounts.
+- [Connecting your Podia and ActiveCampaign accounts \(ActiveCampaign integration\)](https://help.podia.com/en/articles/11370863-connecting-your-podia-and-activecampaign-accounts-activecampaign-integration.md): A step by step guide on how to connect your Podia and ActiveCampaign accounts.
+- [How to connect your Podia and GetResponse accounts \(GetResponse integration\)](https://help.podia.com/en/articles/11370883-how-to-connect-your-podia-and-getresponse-accounts-getresponse-integration.md): A step by step guide on how to connect your Podia and GetResponse accounts.
+- [Connecting your Podia and Drip accounts \(Drip integration\)](https://help.podia.com/en/articles/11370898-connecting-your-podia-and-drip-accounts-drip-integration.md): A step by step guide on how to connect your Podia and Drip accounts.
+- [Connecting your Podia and AWeber accounts \(AWeber integration\)](https://help.podia.com/en/articles/11370906-connecting-your-podia-and-aweber-accounts-aweber-integration.md): A step by step guide on how to connect your Podia and AWeber accounts.
+- [Integrating with Discord](https://help.podia.com/en/articles/11371170-integrating-with-discord.md): A step by step guide on how to connect your Discord server to Podia.
+- [Associating Discord roles with products/events/plans](https://help.podia.com/en/articles/11371109-associating-discord-roles-with-products-events-plans.md): This guide covers how to assign Discord roles to members based on sign-ups.
+- [Removing customers from your Discord server when they lose product access](https://help.podia.com/en/articles/11371110-removing-customers-from-your-discord-server-when-they-lose-product-access.md): This guide goes over how to automatically remove members from your Discord server if they lose access to a product/event/plan on Podia.
+- [Understanding Discord's integration member experience](https://help.podia.com/en/articles/11371111-understanding-discord-s-integration-member-experience.md): This guide covers what your members experience when using Podia's Discord integration.
+- [Troubleshooting Discord integration issues](https://help.podia.com/en/articles/11371108-troubleshooting-discord-integration-issues.md): This article covers common issues with Podia's Discord integration, and how to resolve them.
+- [Does Podia have a public API or webhooks?](https://help.podia.com/en/articles/11371075-does-podia-have-a-public-api-or-webhooks.md): Podia does not have a public API, but you can use Zapier to connect Podia to other platforms.
+
+## Misc
+
+- [Formatting and styling text with Podia's rich-text editor](https://help.podia.com/en/articles/11371025-formatting-and-styling-text-with-podia-s-rich-text-editor.md): Learn how to format text and embed content using Podia's text editor.
+- [Inserting audio clips](https://help.podia.com/en/articles/11542790-inserting-audio-clips.md): Learn how to insert audio clips to your content
+- [Inserting videos](https://help.podia.com/en/articles/11831240-inserting-videos.md): Learn how to insert videos to your content
+- [Embedding audio clips, PDF files, presentations & more!](https://help.podia.com/en/articles/11370264-embedding-audio-clips-pdf-files-presentations-more.md): This guide goes over how to embed content into your products and site pages, and what kinds of assets we support.
+- [Embedding externally hosted videos](https://help.podia.com/en/articles/11370430-embedding-externally-hosted-videos.md): This guide goes over how to embed externally hosted videos into your products and site pages.
+- [Embedding an audio or podcast player](https://help.podia.com/en/articles/11370468-embedding-an-audio-or-podcast-player.md): This guide goes over how to embed externally hosted audio files into your products and site pages.
+- [Adding forms to your site, products, or community](https://help.podia.com/en/articles/11370816-adding-forms-to-your-site-products-or-community.md): Learn how to embed forms into your Podia site, products, and community
+- [Embedding a document or PDF](https://help.podia.com/en/articles/11370850-embedding-a-document-or-pdf.md): This guide goes over how to embed a PDF or other document from an external platform.
+- [Embedding a presentation or slideshow](https://help.podia.com/en/articles/11370875-embedding-a-presentation-or-slideshow.md): This guide goes over how to embed externally hosted presentations into your Podia products and site.
+- [Embedding externally hosted quizzes](https://help.podia.com/en/articles/11371106-embedding-externally-hosted-quizzes.md): This guide goes over how to embed an externally hosted quiz into your Podia products and site.
+- [Embedding polls and surveys](https://help.podia.com/en/articles/11371107-embedding-polls-and-surveys.md): This guide goes over how to embed polls and surveys into your Podia products and site.
+- [Adding a countdown timer to your site pages](https://help.podia.com/en/articles/11370373-adding-a-countdown-timer-to-your-site-pages.md): A step by step guide on how to add a countdown timer to your site using third party tools.
+- [Viewing and managing comments for courses](https://help.podia.com/en/articles/11370916-viewing-and-managing-comments-for-courses.md): A guide on how to view and manage comments for your courses
+- [Reviewing reported content](https://help.podia.com/en/articles/11371164-reviewing-reported-content.md): Learn how to moderate reported posts in your community.
+- [Getting started with Podia Chat](https://help.podia.com/en/articles/11371009-getting-started-with-podia-chat.md): Learn how to use Podia chat to engage with members and site visitors
+- [Copyright and DMCA Policy](https://help.podia.com/en/articles/11371152-copyright-and-dmca-policy.md): This article outlines Podia's Copyright and DMCA policy.
+- [Trademark Policy](https://help.podia.com/en/articles/11371153-trademark-policy.md): This article outlines Podia's Trademark policy.
+- [Hiring a Podia expert](https://help.podia.com/en/articles/15307186-hiring-a-podia-expert.md): Learn more about our Podia Pros program and hire a Podia expert to help set up your account

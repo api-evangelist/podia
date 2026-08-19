@@ -1,0 +1,45 @@
+generated: '2026-08-13'
+method: searched
+source: https://help.podia.com/llms.txt
+http_status: 200
+content_type: text/plain
+file: podia-llms.txt
+bytes: 97595
+links: 509
+title: Podia Help Center
+description: >-
+  Podia publishes a real llms.txt at https://help.podia.com/llms.txt - a 509-link
+  index of the entire Podia Help Center, each entry pointing at a machine-readable
+  .md rendering of the article (append .md to any help.podia.com article URL and
+  Intercom serves clean markdown). This is the single richest machine-readable
+  surface Podia ships. It is a documentation index, not an API contract: it
+  contains no endpoints, no schemas and no authentication model, because Podia
+  does not publish an API. Saved verbatim.
+sections:
+- Getting Started
+- Products
+- Community
+- Website
+- Email
+- Sales and payments
+- Account and billing
+- Integrations
+notable_entries:
+- title: Does Podia have a public API or webhooks?
+  url: https://help.podia.com/en/articles/11371075-does-podia-have-a-public-api-or-webhooks.md
+  note: >-
+    The authoritative statement. Verbatim: "Podia does not offer a public API or
+    webhooks." Directs builders to Zapier as the only supported programmatic path.
+- title: Advanced JavaScript tracking API
+  url: https://help.podia.com/en/articles/11371023-advanced-javascript-tracking-api.md
+  note: >-
+    The only first-party programmable interface Podia documents - browser-side
+    Podia.Customer / Podia.Conversion objects and three DOM CustomEvents.
+    Captured in components/podia-components.yml and data-model/podia-data-model.yml.
+- title: Connecting Podia to other platforms using Zapier
+  url: https://help.podia.com/en/articles/11370276-connecting-podia-to-other-platforms-using-zapier.md
+  note: The six Zapier triggers and the write actions, with plan gating.
+notes: >-
+  Not committed - and never to be committed - is an llms-full.txt; Podia does not
+  publish one, and the .md article renderings are fetched on demand rather than
+  bulk-dumped into the repo.

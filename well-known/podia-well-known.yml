@@ -1,0 +1,111 @@
+generated: '2026-08-13'
+method: probed
+source: live GET of /.well-known/* on every Podia-controlled host
+description: >-
+  Well-known discovery probe across every host Podia controls. Every RFC 8615
+  path on Podia's own hosts (www.podia.com, api.podia.com) returned 404. The one
+  200 in this probe - /.well-known/security.txt on help.podia.com - is NOT
+  Podia's document: help.podia.com is an Intercom-hosted help center and the
+  file served there is Intercom's own RFC 9116 policy, declaring
+  Contact security@intercom.com, Policy bugcrowd.com and
+  Canonical https://app.intercom.com/.well-known/security.txt. It asserts
+  Intercom's vulnerability disclosure program, not Podia's, so it earns Podia
+  no WellKnown and no SecurityTxt pointer. It is saved here only as evidence of
+  what the host actually serves.
+hosts:
+- host: www.podia.com
+  note: marketing site and creator storefront root (Next.js)
+- host: help.podia.com
+  note: Podia Help Center, hosted by Intercom
+- host: api.podia.com
+  note: >-
+    resolves and answers, but every path probed returned an HTML 404 shell -
+    there is no documented API served here and Podia publishes no base URL
+documents:
+- host: www.podia.com
+  path: /.well-known/security.txt
+  status: 404
+- host: www.podia.com
+  path: /.well-known/openid-configuration
+  status: 404
+- host: www.podia.com
+  path: /.well-known/oauth-authorization-server
+  status: 404
+- host: www.podia.com
+  path: /.well-known/oauth-protected-resource
+  status: 404
+- host: www.podia.com
+  path: /.well-known/api-catalog
+  status: 404
+- host: www.podia.com
+  path: /.well-known/ai-plugin.json
+  status: 404
+- host: www.podia.com
+  path: /.well-known/agent-card.json
+  status: 404
+- host: www.podia.com
+  path: /.well-known/agent.json
+  status: 404
+- host: help.podia.com
+  path: /.well-known/security.txt
+  status: 200
+  content_type: text/plain
+  file: podia-help-intercom-security.txt
+  owner: Intercom
+  first_party: false
+  note: >-
+    Vendor document served by the Intercom help-center platform. Canonical is
+    https://app.intercom.com/.well-known/security.txt and the contact is
+    security@intercom.com. Not a Podia security policy - no SecurityTxt or
+    Security pointer emitted from this hit.
+- host: help.podia.com
+  path: /.well-known/openid-configuration
+  status: 404
+- host: help.podia.com
+  path: /.well-known/oauth-authorization-server
+  status: 404
+- host: help.podia.com
+  path: /.well-known/api-catalog
+  status: 404
+- host: help.podia.com
+  path: /.well-known/ai-plugin.json
+  status: 404
+- host: help.podia.com
+  path: /.well-known/agent-card.json
+  status: 404
+- host: help.podia.com
+  path: /.well-known/agent.json
+  status: 404
+- host: api.podia.com
+  path: /.well-known/security.txt
+  status: 404
+- host: api.podia.com
+  path: /.well-known/openid-configuration
+  status: 404
+- host: api.podia.com
+  path: /.well-known/oauth-authorization-server
+  status: 404
+- host: api.podia.com
+  path: /.well-known/oauth-protected-resource
+  status: 404
+- host: api.podia.com
+  path: /.well-known/api-catalog
+  status: 404
+- host: api.podia.com
+  path: /.well-known/ai-plugin.json
+  status: 404
+- host: api.podia.com
+  path: /.well-known/agent-card.json
+  status: 404
+- host: api.podia.com
+  path: /.well-known/agent.json
+  status: 404
+agent_card: none
+robots:
+  url: https://www.podia.com/robots.txt
+  status: 200
+  note: >-
+    Podia explicitly allows AI crawlers - GPTBot, ClaudeBot, PerplexityBot,
+    Google-Extended and OAI-SearchBot are each granted "Allow: /". There is no
+    agent-hostile posture at the edge; the absence of an agent surface is an
+    absence of API product, not of AI permission.

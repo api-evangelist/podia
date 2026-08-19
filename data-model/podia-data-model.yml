@@ -1,0 +1,97 @@
+generated: '2026-08-13'
+method: searched
+source: https://help.podia.com/en/articles/11371023-advanced-javascript-tracking-api
+description: >-
+  Entity graph for Podia. There is no OpenAPI to derive from - Podia publishes no
+  REST API - so this model is read from the only place Podia documents its object
+  shapes with named, typed attributes: the browser JavaScript tracking API. Two
+  entities (Customer, Conversion) plus the embedded Product/Plan reference are
+  documented with real field names and example payloads. The remaining entities
+  are named consistently across the help center and the Zapier app but Podia
+  publishes no field list for them, so they are recorded as documented-by-name
+  only, with no invented fields.
+basis: >-
+  Podia.Customer and Podia.Conversion attribute lists and example objects, exactly
+  as published in the Advanced JavaScript tracking API article. Field names,
+  types and semantics are Podia's; nothing here is inferred.
+entities:
+- name: Customer
+  documented: true
+  surface: Podia.Customer (browser global)
+  fields:
+  - {name: id, type: integer, role: primary-key}
+  - {name: email, type: string}
+  - {name: first_name, type: string, nullable: true}
+  - {name: last_name, type: string, nullable: true}
+  - {name: stripe_id, type: string, role: foreign-key, external_system: Stripe, note: the Stripe customer id}
+  - {name: created_at, type: integer, format: unix-milliseconds}
+- name: Conversion
+  documented: true
+  surface: Podia.Conversion (browser global, thank-you page only)
+  fields:
+  - {name: customer, type: Customer, role: embedded-reference}
+  - {name: revenue_cents, type: integer}
+  - {name: revenue, type: decimal}
+  - {name: currency, type: string, format: iso-4217}
+  - {name: object, type: Product, role: embedded-reference}
+- name: Product
+  documented: true
+  surface: Podia.Conversion.object
+  note: >-
+    Covers every Podia product type - online course, digital download, coaching,
+    webinar/event and community plan - which is why `type` is documented as always
+    being the literal string "product".
+  fields:
+  - {name: type, type: string, enum: [product]}
+  - {name: id, type: integer, role: primary-key, note: product or membership plan id (SKU)}
+  - {name: name, type: string}
+  - {name: order_id, type: integer, role: foreign-key, references: Order}
+- name: Order
+  documented: false
+  note: >-
+    Referenced by id from Product.order_id and surfaced by the Zapier "New Sale"
+    style trigger, but Podia publishes no field list for an order object.
+- name: EmailSubscription
+  documented: partial
+  surface: POST https://{creator-site}.podia.com/email_lists/{email_list_id}/subscriptions
+  fields:
+  - {name: name, type: string, required: false}
+  - {name: email, type: string, required: true}
+  note: >-
+    Only the two request fields Podia publishes in the embed form. No response
+    shape is documented.
+- name: EmailList
+  documented: false
+  note: >-
+    Addressed by id in the embed endpoint path. Exactly one embeddable form
+    exists per account.
+- name: CommunityPlan
+  documented: false
+  note: Named by the Zapier join/leave triggers; no published field list.
+- name: Tag
+  documented: false
+  note: Named by the "Someone Gets Tagged" trigger; no published field list.
+- name: Waitlist
+  documented: false
+  note: Named by the "Someone Waitlists" trigger; no published field list.
+- name: BlogPost
+  documented: false
+  note: Named by the "Published Blog Post" trigger; no published field list.
+relationships:
+- {from: Conversion, to: Customer, kind: has_one, via: customer}
+- {from: Conversion, to: Product, kind: has_one, via: object}
+- {from: Product, to: Order, kind: belongs_to, via: order_id}
+- {from: Customer, to: Order, kind: has_many, via: customer, documented: false}
+- {from: EmailSubscription, to: EmailList, kind: belongs_to, via: email_list_id}
+- {from: EmailSubscription, to: Customer, kind: has_one, via: email, documented: false}
+- {from: Customer, to: 'Stripe:Customer', kind: has_one, via: stripe_id, external: true}
+id_conventions:
+  format: bare integers
+  note: >-
+    Podia ids are plain incrementing integers, not prefixed opaque strings. The
+    only prefixed identifier in the model is stripe_id, which is Stripe's
+    (cus_...). There is no id-prefix scheme to catalog.
+gaps:
+- No OpenAPI, so no schema $refs, no request/response shapes, no pagination model
+- No documented Order, CommunityPlan, Tag, Waitlist or BlogPost field lists
+- No public read path for any entity - the JS objects are write-nothing, read-current-page only

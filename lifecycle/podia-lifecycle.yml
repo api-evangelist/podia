@@ -1,0 +1,45 @@
+generated: '2026-08-13'
+method: probed
+source: https://podia.statuspage.io/api/v2/status.json
+description: >-
+  Lifecycle posture for Podia. Podia operates a real Atlassian Statuspage and a
+  public product changelog, but it has no API to version, deprecate or sunset -
+  so every API-lifecycle field below is honestly empty rather than assumed.
+status_page: https://podia.statuspage.io
+status_page_evidence:
+  url: https://podia.statuspage.io/api/v2/status.json
+  http_status: 200
+  page_id: v1tx5ql9czn5
+  page_name: Podia
+  indicator: none
+  description: All Systems Operational
+  feeds:
+  - https://podia.statuspage.io/history.atom
+  - https://podia.statuspage.io/history.rss
+  note: >-
+    Confirmed first-party - the Statuspage API reports page name "Podia" and
+    url https://podia.statuspage.io. Note that status.podia.com does NOT resolve
+    to it (404), so the status page is only discoverable at the statuspage.io
+    subdomain; a CNAME would make it findable.
+changelog: https://changelog.podia.com/en
+versioning:
+  scheme: none
+  note: >-
+    No API, therefore no API versioning scheme, no version header, no version path
+    segment and no dated release train.
+deprecation:
+  policy_url: null
+  sunset_header: false
+  note: >-
+    No deprecation policy is published. Podia has removed capabilities before -
+    the free plan was retired, and the "new Podia" relaunch changed the product
+    model - but there is no RFC 8594 Sunset/Deprecation header surface because
+    there is no API.
+sla:
+  url: null
+  uptime_target: null
+  note: No published SLA or uptime commitment was found on podia.com or the status page.
+deprecated_operations: []
+support:
+  help_center: https://help.podia.com
+  note: Intercom-hosted help center with in-app messaging

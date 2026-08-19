@@ -1,0 +1,31 @@
+generated: '2026-08-13'
+method: searched
+source: https://help.podia.com/en/articles/11371075-does-podia-have-a-public-api-or-webhooks
+description: >-
+  Podia publishes no rate limits, because Podia publishes no API. The help center
+  states plainly that "Podia does not offer a public API or webhooks", so there is
+  no per-key, per-account or per-endpoint quota, no documented window, no
+  RateLimit-* or X-RateLimit-* response headers and no documented 429 behavior to
+  record. This is an honest zero, verified against the provider's own statement -
+  not an unchecked gap.
+limit_count: 0
+limits: []
+headers: []
+exhaustion_status: null
+searched:
+- url: https://help.podia.com/en/articles/11371075-does-podia-have-a-public-api-or-webhooks
+  status: 200
+  finding: "Verbatim: 'Podia does not offer a public API or webhooks.'"
+- url: https://help.podia.com/llms.txt
+  status: 200
+  finding: 509-article index; no rate limit, quota or throttling reference anywhere in it
+- url: https://api.podia.com/
+  status: 404
+  finding: host answers but serves an HTML 404 shell at every path probed
+adjacent_limits:
+  note: >-
+    The only published quantitative ceilings Podia documents are product-plan
+    quotas, not API rate limits - captured in plans/podia-plans-pricing.yml
+    (products, community spaces, video storage and email subscribers per tier).
+    Zapier polling frequency is governed by the customer's Zapier plan, not by
+    Podia.

@@ -1,0 +1,122 @@
+generated: '2026-08-13'
+method: searched
+source: https://help.podia.com/en/articles/11371023-advanced-javascript-tracking-api
+description: >-
+  Podia ships no server-side SDKs and no REST API, but it does publish a real
+  first-party CLIENT-SIDE surface: a documented browser JavaScript API on every
+  Podia storefront page, an embeddable email-capture form for external sites, and
+  two injection points for third-party code. These are the only interfaces Podia
+  documents that a developer writes code against, so they are captured here as
+  embedded components rather than as an API.
+families:
+- name: Podia JavaScript tracking API
+  kind: browser-global
+  docs: https://help.podia.com/en/articles/11371023-advanced-javascript-tracking-api
+  availability: >-
+    Available on the Mover and Shaker plans, injected on every page of a Podia
+    site. Accessed from custom code added under Admin > Settings > Analytics >
+    Third-party code.
+  loader: >-
+    None to install - Podia defines the global `Podia` object on its own pages.
+    There is no npm package, no CDN script tag and no version to pin, so a
+    consumer cannot detect or lock a version of this interface.
+  objects:
+  - name: Podia.Customer
+    scope: every page of a Podia site
+    nullable: true
+    null_when: no customer is currently logged in
+    attributes:
+    - {name: id, type: integer}
+    - {name: email, type: string}
+    - {name: first_name, type: string, nullable: true}
+    - {name: last_name, type: string, nullable: true}
+    - {name: stripe_id, type: string, note: the Stripe customer id}
+    - {name: created_at, type: integer, format: unix-milliseconds}
+  - name: Podia.Conversion
+    scope: thank-you page immediately after checkout only
+    lifetime: >-
+      Single read. The object disappears if the thank-you page is refreshed, to
+      prevent duplicate conversion tracking.
+    attributes:
+    - {name: customer, type: Podia.Customer}
+    - {name: revenue_cents, type: integer, note: 0 for free products and plans}
+    - {name: revenue, type: decimal}
+    - {name: currency, type: string, format: iso-4217}
+    - {name: object, type: ConversionObject}
+  - name: ConversionObject
+    scope: Podia.Conversion.object
+    attributes:
+    - {name: type, type: string, note: "always 'product' for every Podia product type"}
+    - {name: id, type: integer, note: product or membership plan id (SKU)}
+    - {name: name, type: string}
+    - {name: order_id, type: integer, note: order or subscription id (transaction id)}
+  events:
+  - name: podia:checkout:purchase
+    dispatch: document
+    detail: '{ id }'
+    note: >-
+      Purchase event id. Podia documents this as the value to use as Meta's
+      event_id for Conversions API deduplication - explicitly NOT
+      Podia.Conversion.object.id, which is the product id. Same value as
+      Podia.Conversion.object.order_id.
+  - name: podia:checkout:start
+    dispatch: document
+    detail: '{ id }'
+    note: add-to-cart / checkout-start event id
+  - name: podia:customer:signup
+    dispatch: document
+    detail: '{ customer: { id } }'
+    note: >-
+      CompleteRegistration event. Same value as Podia.Customer.id.
+- name: Embedded email form
+  kind: html-embed
+  docs: https://help.podia.com/en/articles/11370369-embedding-an-email-form-to-an-external-site
+  availability: Configured under Admin > Settings > Email > Embedded email form
+  description: >-
+    A copy-paste HTML form Podia generates for embedding on an external site
+    (WordPress, Squarespace, Wix, Weebly). Submitting it subscribes the visitor to
+    the creator's Podia audience.
+  endpoint:
+    method: POST
+    url_template: https://{creator-site}.podia.com/email_lists/{email_list_id}/subscriptions
+    encoding: application/x-www-form-urlencoded
+    accept_charset: UTF-8
+    fields:
+    - {name: name, type: text, required: false}
+    - {name: email, type: email, required: true}
+    note: >-
+      Published verbatim in the docs as the form `action` for the customizable
+      variant. This is the one HTTP endpoint Podia documents. It is per-creator
+      and per-list templated, unauthenticated, form-encoded and single-purpose -
+      it is a subscription form target, not an API, and Podia does not document a
+      response contract, error codes or rate limits for it.
+  constraints:
+  - Exactly ONE embeddable form per account; tags and success behavior are global
+  - Changing success behavior affects all embedded forms, including existing ones
+  - Changing tags affects new subscribers only
+  - Styling requires custom CSS; Podia does not support customized embed code
+- name: Third-party code injection
+  kind: script-injection
+  docs: https://help.podia.com/en/articles/11371020-installing-third-party-apps-on-your-podia-site
+  slots:
+  - name: Website tracking code
+    injected: every page, immediately before the closing </body> tag
+  - name: Conversion tracking code
+    injected: conversion/thank-you pages
+  note: >-
+    The supported extension mechanism for analytics, pop-ups, countdown timers and
+    social proof (Hotjar, Elfsight, BDOW!, Deadline Funnels, TrustPulse, Fomo are
+    named in the docs). Combined with the Podia.* globals above, this is how
+    third parties integrate with a Podia storefront at runtime.
+- name: Built-in analytics integrations
+  kind: hosted-integration
+  docs: https://help.podia.com/en/articles/11371023-advanced-javascript-tracking-api
+  items:
+  - Google Analytics
+  - Meta (Facebook) Pixel - Podia emits an event ID for Conversions API deduplication
+  - Pinterest Tag
+not_present:
+- No web-component library
+- No hosted embedded dashboard
+- No element/UI library published to npm or a CDN
+- No versioned distribution of the Podia global - unpinnable by design

@@ -1,0 +1,104 @@
+generated: '2026-08-13'
+method: searched
+source: https://zapier.com/apps/podia/integrations
+also_source: https://help.podia.com/en/articles/11370276-connecting-podia-to-other-platforms-using-zapier
+description: >-
+  Podia's ONLY supported programmatic integration path. Podia publishes no API and
+  no webhooks; the help center directs every builder to Zapier instead. This file
+  catalogs the real trigger and action surface of the Podia Zapier app, because it
+  is the closest thing Podia has to a documented event and write surface - and
+  because the four modeled API entries in apis.yml are modeled from exactly these
+  capabilities, not from any Podia API reference.
+important: >-
+  These are NOT webhooks. A Zapier trigger is consumed inside Zapier's platform;
+  Podia does not let a developer register a callback URL of their own, and no
+  Webhooks pointer is emitted for this surface. Authentication is a Zapier-brokered
+  account login to Podia, not an API key or OAuth client a developer can obtain.
+access:
+  auth: Zapier-brokered Podia account authorization (no developer credential is issued)
+  plan_gating:
+    triggers: Shaker and Earthquaker plans
+    actions: Shaker and Earthquaker plans
+    source: https://help.podia.com/en/articles/11370276-connecting-podia-to-other-platforms-using-zapier
+    note: >-
+      Corrected 2026-08-13. Podia's current Zapier documentation gates BOTH
+      triggers and actions to Shaker and Earthquaker. An earlier round of this
+      profile recorded triggers as available on Mover; that is no longer what the
+      docs say.
+triggers:
+- name: Product Signed Up For
+  description: Triggers when someone signs up for a free or paid product.
+  entity: Product
+  docs: https://help.podia.com/en/articles/11370354-signing-someone-up-for-a-product-using-zapier
+- name: Someone Joins Community
+  description: Triggers when someone joins a free or paid community plan.
+  entity: CommunityPlan
+  docs: https://help.podia.com/en/articles/11370884-configuring-a-someone-joins-community-trigger-using-zapier
+- name: Someone Leaves Community
+  description: Triggers when a community member cancels their plan.
+  entity: CommunityPlan
+  docs: https://help.podia.com/en/articles/11370896-configuring-a-someone-leaves-community-trigger-using-zapier
+- name: Someone Waitlists
+  description: Triggers when someone subscribes for emails from a product waitlist form.
+  entity: Waitlist
+  input: waitlist (optional)
+  docs: https://help.podia.com/en/articles/11370872-configuring-a-someone-waitlists-trigger-using-zapier
+- name: Someone Gets Tagged
+  description: Triggers when someone gets tagged.
+  entity: Tag
+  input: tag (optional)
+  docs: https://help.podia.com/en/articles/11370905-configuring-a-someone-gets-tagged-trigger-using-zapier
+- name: Published Blog Post
+  description: Triggers when a blog post is published.
+  entity: BlogPost
+  docs: https://help.podia.com/en/articles/11370892-configuring-a-published-blog-post-trigger-using-zapier
+actions:
+- name: Sign Someone Up for a Product
+  description: Adds someone to your audience and signs them up to a specific product.
+  entity: Product
+  docs: https://help.podia.com/en/articles/11370354-signing-someone-up-for-a-product-using-zapier
+- name: Subscribe Someone
+  description: Adds someone to your audience and subscribes them for email.
+  entity: EmailSubscription
+  docs: https://help.podia.com/en/articles/11370445-subscribing-someone-in-podia-using-zapier
+- name: Add Someone to Your Community
+  description: Adds someone to your audience and adds them to a specific community plan.
+  entity: CommunityPlan
+  docs: https://help.podia.com/en/articles/11370409-adding-someone-to-a-plan-using-zapier
+- name: Remove Someone From Your Community
+  description: Removes a member from a community plan.
+  entity: CommunityPlan
+  docs: https://help.podia.com/en/articles/11370480-removing-someone-from-your-community-using-zapier
+- name: Waitlist Someone
+  description: Adds someone to your audience and waitlists them for a specific product.
+  entity: Waitlist
+searches: []
+counts:
+  triggers: 6
+  actions: 5
+  searches: 0
+native_email_integrations:
+  note: >-
+    Separate from Zapier, Podia ships first-party one-way contact sync to a set of
+    email marketing platforms, configured in the Podia UI rather than by code.
+  platforms:
+  - Mailchimp
+  - MailerLite
+  - Flodesk
+  - Kit (formerly ConvertKit)
+  - ActiveCampaign
+  - GetResponse
+  - Drip
+  - AWeber
+  docs: https://help.podia.com/en/articles/11370296-getting-started-with-email-integrations
+other_integrations:
+- {name: Discord, kind: community-sync, docs: 'https://help.podia.com/en/articles/11371170-integrating-with-discord'}
+- {name: Zoom, kind: webinars}
+- {name: PayPal, kind: payments}
+- {name: Stripe, kind: payments, note: named in the privacy policy as the card processor}
+arazzo: null
+arazzo_reason: >-
+  No Arazzo workflows can be authored. Arazzo requires verified operationIds in a
+  real OpenAPI source description; Podia publishes no spec and no operations, so
+  every step would have to be invented. Recorded as pending-provider-spec.
+status: pending-provider-spec

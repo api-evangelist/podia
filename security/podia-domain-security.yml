@@ -1,4 +1,4 @@
-generated: '2026-07-11'
+generated: '2026-08-13'
 method: probed
 source: live DNS/TLS/HTTP probes of apis.yml + OpenAPI hosts
 hosts:
@@ -11,13 +11,12 @@ hosts:
 - host: help.podia.com
   https: true
   tls_version: TLSv1.3
-  cert_expires: Aug 31 17:12:52 2026 GMT
-  hsts: true
-  hsts_max_age: 15552000
+  cert_expires: Oct 29 21:17:55 2026 GMT
+  hsts: null
 domains:
 - domain: podia.com
   dnssec: false
   caa: []
   spf: true
   dmarc: true
-  dmarc_policy: none
+  dmarc_policy: quarantine

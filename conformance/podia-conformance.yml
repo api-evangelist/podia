@@ -1,0 +1,81 @@
+generated: '2026-08-13'
+method: searched
+source: https://www.podia.com/dpa
+description: >-
+  Standards and compliance posture for Podia. There is no OpenAPI, no OAuth
+  surface and no API to assert protocol conformance against, so every
+  API-standard row below is honestly false with the reason recorded. What Podia
+  DOES publish is a data-protection compliance layer: a standalone Data
+  Processing Addendum, a GDPR/UK-GDPR data-subject-rights section in the privacy
+  policy, an acceptable use policy, an email anti-spam policy and a copyright
+  dispute policy. No security certifications are published - no SOC 2, no
+  ISO 27001, no PCI DSS attestation, no HIPAA, no FedRAMP - and there is no trust
+  center at trust.podia.com or security.podia.com (both 404).
+standards:
+- id: openapi
+  conforms: false
+  evidence: no OpenAPI or Swagger document found on any Podia host
+- id: asyncapi
+  conforms: false
+  evidence: no event surface - the provider states it offers no webhooks
+- id: oauth2
+  conforms: false
+  evidence: no oauth2 security scheme, no /.well-known/oauth-authorization-server (404 on every host)
+- id: oidc
+  conforms: false
+  evidence: /.well-known/openid-configuration 404 on www.podia.com, help.podia.com and api.podia.com
+- id: rfc9457-problem-details
+  conforms: false
+  evidence: no API, therefore no error envelope
+- id: rfc9116-security-txt
+  conforms: false
+  evidence: >-
+    404 on www.podia.com/.well-known/security.txt. The 200 at
+    help.podia.com/.well-known/security.txt is Intercom's own policy
+    (Canonical app.intercom.com, Contact security@intercom.com) and is not
+    Podia's.
+- id: rfc8615-well-known
+  conforms: false
+  evidence: every well-known path probed on Podia-controlled hosts returned 404
+- id: a2a-agent-card
+  conforms: false
+  evidence: /.well-known/agent-card.json and /.well-known/agent.json both 404 on every host
+- id: mcp
+  conforms: false
+  evidence: no hosted or local MCP server published or found
+- id: llms-txt
+  conforms: true
+  evidence: https://help.podia.com/llms.txt returns 200 with a 509-link index of the help center
+- id: gdpr
+  conforms: true
+  evidence: >-
+    Standalone DPA at https://www.podia.com/dpa supplementing the Terms of
+    Service, plus a GDPR/UK-GDPR data-subject-rights section in the privacy policy
+- id: soc2
+  conforms: false
+  evidence: no SOC 2 report or attestation published; no trust center found
+- id: iso-27001
+  conforms: false
+  evidence: not published
+- id: pci-dss
+  conforms: false
+  evidence: >-
+    Podia does not handle card data directly - the privacy policy names Stripe,
+    Inc. as the payment processor that collects card information. No Podia PCI
+    attestation is published.
+- id: hipaa
+  conforms: false
+  evidence: not published; not applicable to the creator-commerce product
+compliance_documents:
+- {name: Data Processing Addendum, url: https://www.podia.com/dpa, status: 200}
+- {name: Privacy Policy, url: https://www.podia.com/privacy, status: 200}
+- {name: Terms of Service, url: https://www.podia.com/terms, status: 200}
+- {name: Acceptable Use Policy, url: https://www.podia.com/aup, status: 200}
+- {name: Email Anti-Spam Policy, url: https://www.podia.com/email-anti-spam-policy}
+- {name: Copyright Dispute Policy, url: https://www.podia.com/copyright-dispute-policy}
+certifications: []
+trust_center: null
+trust_center_evidence:
+- {url: 'https://trust.podia.com/', status: 404}
+- {url: 'https://security.podia.com/', status: 404}
+- {url: 'https://www.podia.com/security', status: 404}
