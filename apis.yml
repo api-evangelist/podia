@@ -54,6 +54,11 @@ apis:
 - aid: podia:podia-products-api
   name: Podia Products API
   tags:
+  - Product
+  - Courses
+  - Digital Downloads
+  - Modeled
+  tags_raw:
   - Products
   - Courses
   - Digital Downloads
@@ -118,6 +123,11 @@ apis:
 - aid: podia:podia-sales-api
   name: Podia Sales API
   tags:
+  - Sales
+  - Order
+  - Transaction
+  - Modeled
+  tags_raw:
   - Sales
   - Orders
   - Transactions
