@@ -1,0 +1,14 @@
+{
+  "repo": "podia",
+  "feeds": [
+    {
+      "source": "https://help.podia.com",
+      "feed_url": "https://help.podia.com/feed.xml",
+      "title": "",
+      "saved": 25,
+      "method": "discovered"
+    }
+  ],
+  "post_count": 25,
+  "fetched": "2026-08-22T20:20:02Z"
+}
