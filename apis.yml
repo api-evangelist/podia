@@ -22,6 +22,17 @@ description: >-
   public Atlassian status page and a Beamer changelog, and allows GPTBot,
   ClaudeBot and PerplexityBot in robots.txt - the missing agent surface here is a
   missing API product, not an anti-AI posture.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: free-trial
   onboarding: unknown
