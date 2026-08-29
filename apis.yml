@@ -1,5 +1,8 @@
 aid: podia
 url: https://raw.githubusercontent.com/api-evangelist/podia/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "The company's own help center states plainly that 'Podia does not offer a public API or webhooks,' and directs builders to Zapier as the only supported integration path."
 name: Podia
 kind: company
 description: >-
