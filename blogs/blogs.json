@@ -2,13 +2,20 @@
   "repo": "podia",
   "feeds": [
     {
+      "source": "https://help.podia.com/feed.xml",
+      "feed_url": "https://help.podia.com/feed.xml",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    },
+    {
       "source": "https://help.podia.com",
       "feed_url": "https://help.podia.com/feed.xml",
       "title": "",
-      "saved": 25,
+      "saved": 0,
       "method": "discovered"
     }
   ],
-  "post_count": 25,
-  "fetched": "2026-08-22T20:20:02Z"
+  "post_count": 45,
+  "fetched": "2026-08-30T22:33:40Z"
 }
