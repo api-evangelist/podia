@@ -53,6 +53,18 @@ tags:
 - Creator Economy
 - Online Courses
 - Digital Products
+- Membership
+- Email Marketing
+- No Public API
+- Zapier Only
+- Creator Platform
+- Communities
+- Website Builder
+- Client-Side JavaScript
+tags_raw:
+- Creator Economy
+- Online Courses
+- Digital Products
 - Memberships
 - Email Marketing
 - No Public API
@@ -96,6 +108,11 @@ apis:
   name: Podia Customers and Audience API
   tags:
   - Customers
+  - Audiences
+  - Email Subscribers
+  - Modeled
+  tags_raw:
+  - Customers
   - Audience
   - Email Subscribers
   - Modeled
@@ -116,6 +133,11 @@ apis:
 - aid: podia:podia-community-api
   name: Podia Community API
   tags:
+  - Community
+  - Membership
+  - Space
+  - Modeled
+  tags_raw:
   - Community
   - Memberships
   - Spaces
