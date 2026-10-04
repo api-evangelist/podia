@@ -58,7 +58,7 @@ tags:
 - No Public API
 - Zapier Only
 - Creator Platform
-- Communities
+- Community
 - Website Builder
 - Client-Side JavaScript
 tags_raw:
@@ -78,6 +78,7 @@ modified: '2026-08-13'
 specificationVersion: '0.23'
 apis:
 - aid: podia:podia-products-api
+  x-published: false
   name: Podia Products API
   tags:
   - Product
@@ -105,6 +106,7 @@ apis:
     actions require the Shaker plan). Endpoints are modeled from those Zapier
     capabilities, not fetched from a first-party API reference.
 - aid: podia:podia-customers-audience-api
+  x-published: false
   name: Podia Customers and Audience API
   tags:
   - Customers
@@ -131,17 +133,20 @@ apis:
     and add people to a product waitlist ("Someone Waitlists"). Endpoints are
     modeled from these Zapier triggers and actions rather than a documented API.
 - aid: podia:podia-community-api
+  x-published: false
   name: Podia Community API
   tags:
   - Community
   - Membership
-  - Space
+  - Spaces
   - Modeled
+  - Space
   tags_raw:
   - Community
   - Memberships
   - Spaces
   - Modeled
+  - Space
   image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
   humanURL: https://help.podia.com/en/articles/11371075-does-podia-have-a-public-api-or-webhooks
   endpointsModeled: true
@@ -157,6 +162,7 @@ apis:
     member. Endpoints are modeled from those Zapier events, not from a
     first-party API.
 - aid: podia:podia-sales-api
+  x-published: false
   name: Podia Sales API
   tags:
   - Sales
