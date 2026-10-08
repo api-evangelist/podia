@@ -68,3 +68,27 @@ verified_note: >-
   this date and matched. The month-to-month figures (49 / 99 / 179) are carried
   forward from the July 2026 capture; the current pricing page renders them behind
   a billing-period toggle that did not surface in this fetch.
+x-canonical:
+  generated: '2026-10-08'
+  vocabulary: all/0-working/economics/plans-canonical.yml
+  models: []
+  units: []
+  plans:
+  - name: Mover
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
+  - name: Shaker
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
+  - name: Earthquaker
+    access: other
+    model: unstated
+    model_how: derived
+    units: []
+    periods: []
