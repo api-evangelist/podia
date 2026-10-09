@@ -42,6 +42,9 @@ accessModel:
   trial: true
   try_now: false
   public: false
+  gated: private
+  gated_source:
+  - tag:No Public API
   label: Free trial
   confidence: medium
   source:
@@ -55,7 +58,6 @@ tags:
 - Digital Products
 - Membership
 - Email Marketing
-- No Public API
 - Zapier Only
 - Creator Platform
 - Community
@@ -67,7 +69,6 @@ tags_raw:
 - Digital Products
 - Memberships
 - Email Marketing
-- No Public API
 - Zapier Only
 - Creator Platform
 - Communities
@@ -268,3 +269,5 @@ x-coverage:
   - url: https://help.podia.com/llms.txt
     status: 200
   checked: '2026-08-13'
+x-tags-removed:
+- No Public API
