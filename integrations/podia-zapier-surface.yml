@@ -2,29 +2,22 @@ generated: '2026-08-13'
 method: searched
 source: https://zapier.com/apps/podia/integrations
 also_source: https://help.podia.com/en/articles/11370276-connecting-podia-to-other-platforms-using-zapier
-description: >-
-  Podia's ONLY supported programmatic integration path. Podia publishes no API and
-  no webhooks; the help center directs every builder to Zapier instead. This file
-  catalogs the real trigger and action surface of the Podia Zapier app, because it
-  is the closest thing Podia has to a documented event and write surface - and
-  because the four modeled API entries in apis.yml are modeled from exactly these
-  capabilities, not from any Podia API reference.
-important: >-
-  These are NOT webhooks. A Zapier trigger is consumed inside Zapier's platform;
-  Podia does not let a developer register a callback URL of their own, and no
-  Webhooks pointer is emitted for this surface. Authentication is a Zapier-brokered
-  account login to Podia, not an API key or OAuth client a developer can obtain.
+description: Podia's ONLY supported programmatic integration path. Podia publishes no API and no webhooks; the help
+  center directs every builder to Zapier instead. This file catalogs the real trigger and action surface of the
+  Podia Zapier app, because it is the closest thing Podia has to a documented event and write surface - and because
+  the four modeled API entries in apis.yml are modeled from exactly these capabilities, not from any Podia API reference.
+important: These are NOT webhooks. A Zapier trigger is consumed inside Zapier's platform; Podia does not let a developer
+  register a callback URL of their own, and no Webhooks pointer is emitted for this surface. Authentication is a
+  Zapier-brokered account login to Podia, not an API key or OAuth client a developer can obtain.
 access:
   auth: Zapier-brokered Podia account authorization (no developer credential is issued)
   plan_gating:
     triggers: Shaker and Earthquaker plans
     actions: Shaker and Earthquaker plans
     source: https://help.podia.com/en/articles/11370276-connecting-podia-to-other-platforms-using-zapier
-    note: >-
-      Corrected 2026-08-13. Podia's current Zapier documentation gates BOTH
-      triggers and actions to Shaker and Earthquaker. An earlier round of this
-      profile recorded triggers as available on Mover; that is no longer what the
-      docs say.
+    note: Corrected 2026-08-13. Podia's current Zapier documentation gates BOTH triggers and actions to Shaker and
+      Earthquaker. An earlier round of this profile recorded triggers as available on Mover; that is no longer what
+      the docs say.
 triggers:
 - name: Product Signed Up For
   description: Triggers when someone signs up for a free or paid product.
@@ -78,9 +71,8 @@ counts:
   actions: 5
   searches: 0
 native_email_integrations:
-  note: >-
-    Separate from Zapier, Podia ships first-party one-way contact sync to a set of
-    email marketing platforms, configured in the Podia UI rather than by code.
+  note: Separate from Zapier, Podia ships first-party one-way contact sync to a set of email marketing platforms,
+    configured in the Podia UI rather than by code.
   platforms:
   - Mailchimp
   - MailerLite
@@ -92,13 +84,18 @@ native_email_integrations:
   - AWeber
   docs: https://help.podia.com/en/articles/11370296-getting-started-with-email-integrations
 other_integrations:
-- {name: Discord, kind: community-sync, docs: 'https://help.podia.com/en/articles/11371170-integrating-with-discord'}
-- {name: Zoom, kind: webinars}
-- {name: PayPal, kind: payments}
-- {name: Stripe, kind: payments, note: named in the privacy policy as the card processor}
+- name: Discord
+  kind: community-sync
+  docs: https://help.podia.com/en/articles/11371170-integrating-with-discord
+- name: Zoom
+  kind: webinars
+- name: PayPal
+  kind: payments
+- name: Stripe
+  kind: payments
+  note: named in the privacy policy as the card processor
 arazzo: null
-arazzo_reason: >-
-  No Arazzo workflows can be authored. Arazzo requires verified operationIds in a
-  real OpenAPI source description; Podia publishes no spec and no operations, so
-  every step would have to be invented. Recorded as pending-provider-spec.
+arazzo_reason: No Arazzo workflows can be authored. Arazzo requires verified operationIds in a real OpenAPI source
+  description; Podia publishes no spec and no operations, so every step would have to be invented. Recorded as pending-provider-spec.
 status: pending-provider-spec
+sourceDescriptions: []
