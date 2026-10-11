@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "podia",
+    "captured_at": "2026-10-11T192815",
+    "source_url": "https://www.podia.com",
+    "source_type": "Website",
+    "file": "podia-2026-10-11T192815.png",
+    "bytes": 218379,
+    "capture": "playwright-local"
+  }
+]
